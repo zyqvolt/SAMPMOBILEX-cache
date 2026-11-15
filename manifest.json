@@ -1,0 +1,3721 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T11:14:44.282754+00:00",
+  "baseUrl": "https://raw.githubusercontent.com/zyqvolt/SAMPMOBILEX-cache/main/",
+  "fileCount": 464,
+  "totalBytes": 2706888739,
+  "files": [
+    {
+      "path": "Adjustable.cfg",
+      "size": 221,
+      "crc32": "2EB0271C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Adjustable.cfg",
+      "asset": "Adjustable.cfg",
+      "assetId": 750704176
+    },
+    {
+      "path": "PC_Dialog/sampgui.png",
+      "size": 14091,
+      "crc32": "CCA36D95",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/PC_Dialog__sampgui.png",
+      "asset": "PC_Dialog__sampgui.png",
+      "assetId": 750732285
+    },
+    {
+      "path": "SAMP/SAMP.ide",
+      "size": 89349,
+      "crc32": "03B97D25",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__SAMP.ide",
+      "asset": "SAMP__SAMP.ide",
+      "assetId": 750732996
+    },
+    {
+      "path": "SAMP/TIMECYC.DAT",
+      "size": 40037,
+      "crc32": "7F5FDDFA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__TIMECYC.DAT",
+      "asset": "SAMP__TIMECYC.DAT",
+      "assetId": 750734133
+    },
+    {
+      "path": "SAMP/Text/american.gxt",
+      "size": 1339424,
+      "crc32": "278F48FD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__american.gxt",
+      "asset": "SAMP__Text__american.gxt",
+      "assetId": 750733368
+    },
+    {
+      "path": "SAMP/Text/french.gxt",
+      "size": 1459044,
+      "crc32": "D835A18B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__french.gxt",
+      "asset": "SAMP__Text__french.gxt",
+      "assetId": 750733445
+    },
+    {
+      "path": "SAMP/Text/german.gxt",
+      "size": 1497182,
+      "crc32": "4BF92658",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__german.gxt",
+      "asset": "SAMP__Text__german.gxt",
+      "assetId": 750733541
+    },
+    {
+      "path": "SAMP/Text/italian.gxt",
+      "size": 1371048,
+      "crc32": "D131DCBF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__italian.gxt",
+      "asset": "SAMP__Text__italian.gxt",
+      "assetId": 750733628
+    },
+    {
+      "path": "SAMP/Text/japanese.gxt",
+      "size": 643202,
+      "crc32": "495F3410",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__japanese.gxt",
+      "asset": "SAMP__Text__japanese.gxt",
+      "assetId": 750733714
+    },
+    {
+      "path": "SAMP/Text/russian.gxt",
+      "size": 1421038,
+      "crc32": "F8FEC8A1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__russian.gxt",
+      "asset": "SAMP__Text__russian.gxt",
+      "assetId": 750733795
+    },
+    {
+      "path": "SAMP/Text/spanish.gxt",
+      "size": 1386744,
+      "crc32": "EEA6B10C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__Text__spanish.gxt",
+      "asset": "SAMP__Text__spanish.gxt",
+      "assetId": 750733940
+    },
+    {
+      "path": "SAMP/WEAPON.dat",
+      "size": 11585,
+      "crc32": "B67157D8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__WEAPON.dat",
+      "asset": "SAMP__WEAPON.dat",
+      "assetId": 750734692
+    },
+    {
+      "path": "SAMP/buttons/KEY_N_1.png",
+      "size": 4471,
+      "crc32": "B17C94DB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__buttons__KEY_N_1.png",
+      "asset": "SAMP__buttons__KEY_N_1.png",
+      "assetId": 750732349
+    },
+    {
+      "path": "SAMP/fonts/arial_bold.ttf",
+      "size": 77700,
+      "crc32": "A91834AD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__fonts__arial_bold.ttf",
+      "asset": "SAMP__fonts__arial_bold.ttf",
+      "assetId": 750732447
+    },
+    {
+      "path": "SAMP/fonts/gtaweap3.ttf",
+      "size": 104004,
+      "crc32": "453B8DE2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__fonts__gtaweap3.ttf",
+      "asset": "SAMP__fonts__gtaweap3.ttf",
+      "assetId": 750732547
+    },
+    {
+      "path": "SAMP/gta.dat",
+      "size": 3789,
+      "crc32": "0CFAA4CA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__gta.dat",
+      "asset": "SAMP__gta.dat",
+      "assetId": 750732626
+    },
+    {
+      "path": "SAMP/handling.cfg",
+      "size": 64532,
+      "crc32": "B99C8EA2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__handling.cfg",
+      "asset": "SAMP__handling.cfg",
+      "assetId": 750732716
+    },
+    {
+      "path": "SAMP/main.scm",
+      "size": 96997,
+      "crc32": "59CD7DDD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__main.scm",
+      "asset": "SAMP__main.scm",
+      "assetId": 750732790
+    },
+    {
+      "path": "SAMP/peds.ide",
+      "size": 36369,
+      "crc32": "41B63785",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__peds.ide",
+      "asset": "SAMP__peds.ide",
+      "assetId": 750732918
+    },
+    {
+      "path": "SAMP/samfonts/ENGR.TTF",
+      "size": 49768,
+      "crc32": "16A886B4",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__ENGR.TTF",
+      "asset": "SAMP__samfonts__ENGR.TTF",
+      "assetId": 750730018
+    },
+    {
+      "path": "SAMP/samfonts/QUARTZ.ttf",
+      "size": 1036584,
+      "crc32": "B47056FE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__QUARTZ.ttf",
+      "asset": "SAMP__samfonts__QUARTZ.ttf",
+      "assetId": 750729674
+    },
+    {
+      "path": "SAMP/samfonts/arial.ttf",
+      "size": 1036584,
+      "crc32": "B47056FE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__arial.ttf",
+      "asset": "SAMP__samfonts__arial.ttf",
+      "assetId": 750730575
+    },
+    {
+      "path": "SAMP/samfonts/arialbd.ttf",
+      "size": 352224,
+      "crc32": "44068765",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__arialbd.ttf",
+      "asset": "SAMP__samfonts__arialbd.ttf",
+      "assetId": 750730488
+    },
+    {
+      "path": "SAMP/samfonts/calibri.ttf",
+      "size": 1648120,
+      "crc32": "400D3354",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__calibri.ttf",
+      "asset": "SAMP__samfonts__calibri.ttf",
+      "assetId": 750730304
+    },
+    {
+      "path": "SAMP/samfonts/calibrib.ttf",
+      "size": 1613668,
+      "crc32": "75077C03",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__calibrib.ttf",
+      "asset": "SAMP__samfonts__calibrib.ttf",
+      "assetId": 750730185
+    },
+    {
+      "path": "SAMP/samfonts/courier.ttf",
+      "size": 16936,
+      "crc32": "11653D13",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__courier.ttf",
+      "asset": "SAMP__samfonts__courier.ttf",
+      "assetId": 750730091
+    },
+    {
+      "path": "SAMP/samfonts/fixedsys.ttf",
+      "size": 575668,
+      "crc32": "3E99656E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__fixedsys.ttf",
+      "asset": "SAMP__samfonts__fixedsys.ttf",
+      "assetId": 750729972
+    },
+    {
+      "path": "SAMP/samfonts/gtaweap3.ttf",
+      "size": 103552,
+      "crc32": "5202DFBE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__gtaweap3.ttf",
+      "asset": "SAMP__samfonts__gtaweap3.ttf",
+      "assetId": 750729872
+    },
+    {
+      "path": "SAMP/samfonts/impact.ttf",
+      "size": 206784,
+      "crc32": "9E7AA04B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__impact.ttf",
+      "asset": "SAMP__samfonts__impact.ttf",
+      "assetId": 750729777
+    },
+    {
+      "path": "SAMP/samfonts/sampvoice.ttf",
+      "size": 169304,
+      "crc32": "5024BB21",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__sampvoice.ttf",
+      "asset": "SAMP__samfonts__sampvoice.ttf",
+      "assetId": 750729601
+    },
+    {
+      "path": "SAMP/samfonts/segoeui.ttf",
+      "size": 955804,
+      "crc32": "715D65A3",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__segoeui.ttf",
+      "asset": "SAMP__samfonts__segoeui.ttf",
+      "assetId": 750729481
+    },
+    {
+      "path": "SAMP/samfonts/webdings.ttf",
+      "size": 118752,
+      "crc32": "56D740DF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__webdings.ttf",
+      "asset": "SAMP__samfonts__webdings.ttf",
+      "assetId": 750729335
+    },
+    {
+      "path": "SAMP/samfonts/wingding.ttf",
+      "size": 82180,
+      "crc32": "92A2F0DB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__samfonts__wingding.ttf",
+      "asset": "SAMP__samfonts__wingding.ttf",
+      "assetId": 750729230
+    },
+    {
+      "path": "SAMP/sampgui.png",
+      "size": 14091,
+      "crc32": "CCA36D95",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__sampgui.png",
+      "asset": "SAMP__sampgui.png",
+      "assetId": 750733091
+    },
+    {
+      "path": "SAMP/sampvoice_logo.png",
+      "size": 13442,
+      "crc32": "020D76EE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__sampvoice_logo.png",
+      "asset": "SAMP__sampvoice_logo.png",
+      "assetId": 750733179
+    },
+    {
+      "path": "SAMP/script.img",
+      "size": 184320,
+      "crc32": "8BC36972",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__script.img",
+      "asset": "SAMP__script.img",
+      "assetId": 750733271
+    },
+    {
+      "path": "SAMP/timecyc.aaa",
+      "size": 38417,
+      "crc32": "1A6E920F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__timecyc.aaa",
+      "asset": "SAMP__timecyc.aaa",
+      "assetId": 750734035
+    },
+    {
+      "path": "SAMP/tracks2.dat",
+      "size": 1,
+      "crc32": "F4DBDF21",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__tracks2.dat",
+      "asset": "SAMP__tracks2.dat",
+      "assetId": 750734209
+    },
+    {
+      "path": "SAMP/tracks4.dat",
+      "size": 1,
+      "crc32": "F4DBDF21",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__tracks4.dat",
+      "asset": "SAMP__tracks4.dat",
+      "assetId": 750734283
+    },
+    {
+      "path": "SAMP/vehicles.ide",
+      "size": 21093,
+      "crc32": "72A5694A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__vehicles.ide",
+      "asset": "SAMP__vehicles.ide",
+      "assetId": 750734388
+    },
+    {
+      "path": "SAMP/voice_settings.ini",
+      "size": 195,
+      "crc32": "8C39DFB1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__voice_settings.ini",
+      "asset": "SAMP__voice_settings.ini",
+      "assetId": 750734494
+    },
+    {
+      "path": "SAMP/water12.dat",
+      "size": 169,
+      "crc32": "AD1438EB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/SAMP__water12.dat",
+      "asset": "SAMP__water12.dat",
+      "assetId": 750734592
+    },
+    {
+      "path": "Text/american.gxt",
+      "size": 1339424,
+      "crc32": "278F48FD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__american.gxt",
+      "asset": "Text__american.gxt",
+      "assetId": 750734852
+    },
+    {
+      "path": "Text/french.gxt",
+      "size": 1459044,
+      "crc32": "D835A18B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__french.gxt",
+      "asset": "Text__french.gxt",
+      "assetId": 750734948
+    },
+    {
+      "path": "Text/german.gxt",
+      "size": 1497182,
+      "crc32": "4BF92658",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__german.gxt",
+      "asset": "Text__german.gxt",
+      "assetId": 750735033
+    },
+    {
+      "path": "Text/italian.gxt",
+      "size": 1371048,
+      "crc32": "D131DCBF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__italian.gxt",
+      "asset": "Text__italian.gxt",
+      "assetId": 750735126
+    },
+    {
+      "path": "Text/japanese.gxt",
+      "size": 643202,
+      "crc32": "495F3410",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__japanese.gxt",
+      "asset": "Text__japanese.gxt",
+      "assetId": 750735250
+    },
+    {
+      "path": "Text/russian.gxt",
+      "size": 1421038,
+      "crc32": "F8FEC8A1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__russian.gxt",
+      "asset": "Text__russian.gxt",
+      "assetId": 750735330
+    },
+    {
+      "path": "Text/spanish.gxt",
+      "size": 1386744,
+      "crc32": "EEA6B10C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Text__spanish.gxt",
+      "asset": "Text__spanish.gxt",
+      "assetId": 750735468
+    },
+    {
+      "path": "Textures/fonts/JapaneseFont.met",
+      "size": 45171,
+      "crc32": "9CE72762",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Textures__fonts__JapaneseFont.met",
+      "asset": "Textures__fonts__JapaneseFont.met",
+      "assetId": 750735533
+    },
+    {
+      "path": "Textures/fonts/RussianFont.met",
+      "size": 4279,
+      "crc32": "D2256391",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Textures__fonts__RussianFont.met",
+      "asset": "Textures__fonts__RussianFont.met",
+      "assetId": 750735658
+    },
+    {
+      "path": "Textures/fonts/RussianFont.png",
+      "size": 38743,
+      "crc32": "A8C2074C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/Textures__fonts__RussianFont.png",
+      "asset": "Textures__fonts__RussianFont.png",
+      "assetId": 750735749
+    },
+    {
+      "path": "anim/anim.img",
+      "size": 10942464,
+      "crc32": "C3E4BC1D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/anim__anim.img",
+      "asset": "anim__anim.img",
+      "assetId": 750704265
+    },
+    {
+      "path": "anim/cuts.img",
+      "size": 16029696,
+      "crc32": "02A0FD1A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/anim__cuts.img",
+      "asset": "anim__cuts.img",
+      "assetId": 750704447
+    },
+    {
+      "path": "anim/ped.ifp",
+      "size": 1433248,
+      "crc32": "268974C8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/anim__ped.ifp",
+      "asset": "anim__ped.ifp",
+      "assetId": 750704659
+    },
+    {
+      "path": "audio/CONFIG/AudioEventHistory.txt1",
+      "size": 114056,
+      "crc32": "4F1007F0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__AudioEventHistory.txt1",
+      "asset": "audio__CONFIG__AudioEventHistory.txt1",
+      "assetId": 750704966
+    },
+    {
+      "path": "audio/CONFIG/AudioEvents.txt",
+      "size": 166161,
+      "crc32": "BD1B1838",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__AudioEvents.txt",
+      "asset": "audio__CONFIG__AudioEvents.txt",
+      "assetId": 750705104
+    },
+    {
+      "path": "audio/CONFIG/BankLkup.dat",
+      "size": 8520,
+      "crc32": "2EED740F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__BankLkup.dat",
+      "asset": "audio__CONFIG__BankLkup.dat",
+      "assetId": 750705203
+    },
+    {
+      "path": "audio/CONFIG/BankSlot.dat",
+      "size": 216902,
+      "crc32": "A9FA35BE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__BankSlot.dat",
+      "asset": "audio__CONFIG__BankSlot.dat",
+      "assetId": 750705269
+    },
+    {
+      "path": "audio/CONFIG/EventVol.dat",
+      "size": 45402,
+      "crc32": "03CDBF5D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__EventVol.dat",
+      "asset": "audio__CONFIG__EventVol.dat",
+      "assetId": 750705358
+    },
+    {
+      "path": "audio/CONFIG/PakFiles.dat",
+      "size": 468,
+      "crc32": "9FC59E12",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__PakFiles.dat",
+      "asset": "audio__CONFIG__PakFiles.dat",
+      "assetId": 750705493
+    },
+    {
+      "path": "audio/CONFIG/SOUNDINF.DAT",
+      "size": 746760,
+      "crc32": "876D99A6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__SOUNDINF.DAT",
+      "asset": "audio__CONFIG__SOUNDINF.DAT",
+      "assetId": 750705603
+    },
+    {
+      "path": "audio/CONFIG/StrmPaks.dat",
+      "size": 272,
+      "crc32": "08FB1828",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__StrmPaks.dat",
+      "asset": "audio__CONFIG__StrmPaks.dat",
+      "assetId": 750705752
+    },
+    {
+      "path": "audio/CONFIG/TRKHEAD.DAT",
+      "size": 15506696,
+      "crc32": "4BCF4014",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__TRKHEAD.DAT",
+      "asset": "audio__CONFIG__TRKHEAD.DAT",
+      "assetId": 750705954
+    },
+    {
+      "path": "audio/CONFIG/TrakLkup.dat",
+      "size": 23064,
+      "crc32": "BB4CC432",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__TrakLkup.dat",
+      "asset": "audio__CONFIG__TrakLkup.dat",
+      "assetId": 750705858
+    },
+    {
+      "path": "audio/CONFIG/audioeventhistory.txt",
+      "size": 99580,
+      "crc32": "A3AD8F0B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__CONFIG__audioeventhistory.txt",
+      "asset": "audio__CONFIG__audioeventhistory.txt",
+      "assetId": 750704820
+    },
+    {
+      "path": "audio/SFX/FEET.osw",
+      "size": 138118,
+      "crc32": "A26FED7F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__FEET.osw",
+      "asset": "audio__SFX__FEET.osw",
+      "assetId": 750706135
+    },
+    {
+      "path": "audio/SFX/FEET.osw.idx",
+      "size": 1220,
+      "crc32": "1A26D8CF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__FEET.osw.idx",
+      "asset": "audio__SFX__FEET.osw.idx",
+      "assetId": 750706243
+    },
+    {
+      "path": "audio/SFX/GENRL.osw",
+      "size": 9362373,
+      "crc32": "ADB1263C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__GENRL.osw",
+      "asset": "audio__SFX__GENRL.osw",
+      "assetId": 750706327
+    },
+    {
+      "path": "audio/SFX/GENRL.osw.idx",
+      "size": 20868,
+      "crc32": "C4C1842F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__GENRL.osw.idx",
+      "asset": "audio__SFX__GENRL.osw.idx",
+      "assetId": 750706457
+    },
+    {
+      "path": "audio/SFX/PAIN_A.osw",
+      "size": 3247335,
+      "crc32": "6C99F459",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__PAIN_A.osw",
+      "asset": "audio__SFX__PAIN_A.osw",
+      "assetId": 750706530
+    },
+    {
+      "path": "audio/SFX/PAIN_A.osw.idx",
+      "size": 12836,
+      "crc32": "994F50B3",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__PAIN_A.osw.idx",
+      "asset": "audio__SFX__PAIN_A.osw.idx",
+      "assetId": 750706607
+    },
+    {
+      "path": "audio/SFX/script.osw",
+      "size": 99239609,
+      "crc32": "CD4DB169",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__script.osw",
+      "asset": "audio__SFX__script.osw",
+      "assetId": 750706724
+    },
+    {
+      "path": "audio/SFX/script.osw.idx",
+      "size": 219236,
+      "crc32": "1B80FF30",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__script.osw.idx",
+      "asset": "audio__SFX__script.osw.idx",
+      "assetId": 750707106
+    },
+    {
+      "path": "audio/SFX/spc_ea.osw",
+      "size": 40734626,
+      "crc32": "CE5E5BFF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_ea.osw",
+      "asset": "audio__SFX__spc_ea.osw",
+      "assetId": 750707175
+    },
+    {
+      "path": "audio/SFX/spc_ea.osw.idx",
+      "size": 116644,
+      "crc32": "1F640F52",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_ea.osw.idx",
+      "asset": "audio__SFX__spc_ea.osw.idx",
+      "assetId": 750707315
+    },
+    {
+      "path": "audio/SFX/spc_fa.osw",
+      "size": 35259227,
+      "crc32": "5D02017A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_fa.osw",
+      "asset": "audio__SFX__spc_fa.osw",
+      "assetId": 750707421
+    },
+    {
+      "path": "audio/SFX/spc_fa.osw.idx",
+      "size": 87716,
+      "crc32": "5D60BA44",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_fa.osw.idx",
+      "asset": "audio__SFX__spc_fa.osw.idx",
+      "assetId": 750707590
+    },
+    {
+      "path": "audio/SFX/spc_ga.osw",
+      "size": 358311715,
+      "crc32": "F10CC149",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_ga.osw",
+      "asset": "audio__SFX__spc_ga.osw",
+      "assetId": 750708922
+    },
+    {
+      "path": "audio/SFX/spc_ga.osw.idx",
+      "size": 999492,
+      "crc32": "C25F0E18",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_ga.osw.idx",
+      "asset": "audio__SFX__spc_ga.osw.idx",
+      "assetId": 750710072
+    },
+    {
+      "path": "audio/SFX/spc_na.osw",
+      "size": 139343191,
+      "crc32": "D6A95E5A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_na.osw",
+      "asset": "audio__SFX__spc_na.osw",
+      "assetId": 750710275
+    },
+    {
+      "path": "audio/SFX/spc_na.osw.idx",
+      "size": 394340,
+      "crc32": "23AA2B06",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_na.osw.idx",
+      "asset": "audio__SFX__spc_na.osw.idx",
+      "assetId": 750710738
+    },
+    {
+      "path": "audio/SFX/spc_pa.osw",
+      "size": 45319767,
+      "crc32": "6630E06B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_pa.osw",
+      "asset": "audio__SFX__spc_pa.osw",
+      "assetId": 750710880
+    },
+    {
+      "path": "audio/SFX/spc_pa.osw.idx",
+      "size": 131460,
+      "crc32": "78C6F782",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__SFX__spc_pa.osw.idx",
+      "asset": "audio__SFX__spc_pa.osw.idx",
+      "assetId": 750711049
+    },
+    {
+      "path": "audio/STREAMS/AA.osw",
+      "size": 2553090,
+      "crc32": "6E4A3934",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__AA.osw",
+      "asset": "audio__STREAMS__AA.osw",
+      "assetId": 750711131
+    },
+    {
+      "path": "audio/STREAMS/AA.osw.idx",
+      "size": 1522,
+      "crc32": "376FBE22",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__AA.osw.idx",
+      "asset": "audio__STREAMS__AA.osw.idx",
+      "assetId": 750711217
+    },
+    {
+      "path": "audio/STREAMS/ADVERTS.osw",
+      "size": 22094516,
+      "crc32": "11FD6192",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__ADVERTS.osw",
+      "asset": "audio__STREAMS__ADVERTS.osw",
+      "assetId": 750711366
+    },
+    {
+      "path": "audio/STREAMS/ADVERTS.osw.idx",
+      "size": 1591,
+      "crc32": "956F3774",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__ADVERTS.osw.idx",
+      "asset": "audio__STREAMS__ADVERTS.osw.idx",
+      "assetId": 750711601
+    },
+    {
+      "path": "audio/STREAMS/AMBIENCE.osw",
+      "size": 22719112,
+      "crc32": "329B5C7D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__AMBIENCE.osw",
+      "asset": "audio__STREAMS__AMBIENCE.osw",
+      "assetId": 750711675
+    },
+    {
+      "path": "audio/STREAMS/AMBIENCE.osw.idx",
+      "size": 924,
+      "crc32": "ABDCD952",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__AMBIENCE.osw.idx",
+      "asset": "audio__STREAMS__AMBIENCE.osw.idx",
+      "assetId": 750711909
+    },
+    {
+      "path": "audio/STREAMS/BEATS.osw",
+      "size": 9733284,
+      "crc32": "9DC4A5F5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__BEATS.osw",
+      "asset": "audio__STREAMS__BEATS.osw",
+      "assetId": 750712026
+    },
+    {
+      "path": "audio/STREAMS/BEATS.osw.idx",
+      "size": 234,
+      "crc32": "6A7CD232",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__BEATS.osw.idx",
+      "asset": "audio__STREAMS__BEATS.osw.idx",
+      "assetId": 750712117
+    },
+    {
+      "path": "audio/STREAMS/CH.osw",
+      "size": 23643254,
+      "crc32": "1DA4B725",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CH.osw",
+      "asset": "audio__STREAMS__CH.osw",
+      "assetId": 750712196
+    },
+    {
+      "path": "audio/STREAMS/CH.osw.idx",
+      "size": 2994,
+      "crc32": "7A2BA25C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CH.osw.idx",
+      "asset": "audio__STREAMS__CH.osw.idx",
+      "assetId": 750712319
+    },
+    {
+      "path": "audio/STREAMS/CO.osw",
+      "size": 24746488,
+      "crc32": "D5C9D640",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CO.osw",
+      "asset": "audio__STREAMS__CO.osw",
+      "assetId": 750712431
+    },
+    {
+      "path": "audio/STREAMS/CO.osw.idx",
+      "size": 3569,
+      "crc32": "DA2F8308",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CO.osw.idx",
+      "asset": "audio__STREAMS__CO.osw.idx",
+      "assetId": 750712566
+    },
+    {
+      "path": "audio/STREAMS/CR.osw",
+      "size": 28343124,
+      "crc32": "3D0FC41D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CR.osw",
+      "asset": "audio__STREAMS__CR.osw",
+      "assetId": 750712673
+    },
+    {
+      "path": "audio/STREAMS/CR.osw.idx",
+      "size": 3592,
+      "crc32": "B4351A54",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CR.osw.idx",
+      "asset": "audio__STREAMS__CR.osw.idx",
+      "assetId": 750712848
+    },
+    {
+      "path": "audio/STREAMS/CUTSCENE.osw",
+      "size": 59449950,
+      "crc32": "FE0E4347",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CUTSCENE.osw",
+      "asset": "audio__STREAMS__CUTSCENE.osw",
+      "assetId": 750712923
+    },
+    {
+      "path": "audio/STREAMS/CUTSCENE.osw.idx",
+      "size": 3270,
+      "crc32": "FED345DF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__CUTSCENE.osw.idx",
+      "asset": "audio__STREAMS__CUTSCENE.osw.idx",
+      "assetId": 750713131
+    },
+    {
+      "path": "audio/STREAMS/DS.osw",
+      "size": 29491630,
+      "crc32": "0EA8D990",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__DS.osw",
+      "asset": "audio__STREAMS__DS.osw",
+      "assetId": 750713207
+    },
+    {
+      "path": "audio/STREAMS/DS.osw.idx",
+      "size": 4121,
+      "crc32": "E9D6711A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__DS.osw.idx",
+      "asset": "audio__STREAMS__DS.osw.idx",
+      "assetId": 750713356
+    },
+    {
+      "path": "audio/STREAMS/HC.osw",
+      "size": 29978537,
+      "crc32": "A7CCAA4A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__HC.osw",
+      "asset": "audio__STREAMS__HC.osw",
+      "assetId": 750713436
+    },
+    {
+      "path": "audio/STREAMS/HC.osw.idx",
+      "size": 2649,
+      "crc32": "F0416418",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__HC.osw.idx",
+      "asset": "audio__STREAMS__HC.osw.idx",
+      "assetId": 750713589
+    },
+    {
+      "path": "audio/STREAMS/MH.osw",
+      "size": 30158819,
+      "crc32": "7592D3E1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__MH.osw",
+      "asset": "audio__STREAMS__MH.osw",
+      "assetId": 750713690
+    },
+    {
+      "path": "audio/STREAMS/MH.osw.idx",
+      "size": 3500,
+      "crc32": "B09767CA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__MH.osw.idx",
+      "asset": "audio__STREAMS__MH.osw.idx",
+      "assetId": 750713850
+    },
+    {
+      "path": "audio/STREAMS/MR.osw",
+      "size": 25951626,
+      "crc32": "E4CBE215",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__MR.osw",
+      "asset": "audio__STREAMS__MR.osw",
+      "assetId": 750713960
+    },
+    {
+      "path": "audio/STREAMS/MR.osw.idx",
+      "size": 3385,
+      "crc32": "F90AAF9C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__MR.osw.idx",
+      "asset": "audio__STREAMS__MR.osw.idx",
+      "assetId": 750714164
+    },
+    {
+      "path": "audio/STREAMS/NJ.osw",
+      "size": 25533874,
+      "crc32": "68437064",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__NJ.osw",
+      "asset": "audio__STREAMS__NJ.osw",
+      "assetId": 750714271
+    },
+    {
+      "path": "audio/STREAMS/NJ.osw.idx",
+      "size": 2994,
+      "crc32": "B75EF55A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__NJ.osw.idx",
+      "asset": "audio__STREAMS__NJ.osw.idx",
+      "assetId": 750714408
+    },
+    {
+      "path": "audio/STREAMS/RE.osw",
+      "size": 29309761,
+      "crc32": "20681F87",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__RE.osw",
+      "asset": "audio__STREAMS__RE.osw",
+      "assetId": 750714573
+    },
+    {
+      "path": "audio/STREAMS/RE.osw.idx",
+      "size": 3707,
+      "crc32": "F45DE1E3",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__RE.osw.idx",
+      "asset": "audio__STREAMS__RE.osw.idx",
+      "assetId": 750714697
+    },
+    {
+      "path": "audio/STREAMS/RG.osw",
+      "size": 25485757,
+      "crc32": "C73DC22D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__RG.osw",
+      "asset": "audio__STREAMS__RG.osw",
+      "assetId": 750714783
+    },
+    {
+      "path": "audio/STREAMS/RG.osw.idx",
+      "size": 3914,
+      "crc32": "0CF94508",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__RG.osw.idx",
+      "asset": "audio__STREAMS__RG.osw.idx",
+      "assetId": 750714883
+    },
+    {
+      "path": "audio/STREAMS/TK.osw",
+      "size": 42588058,
+      "crc32": "94361D79",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__TK.osw",
+      "asset": "audio__STREAMS__TK.osw",
+      "assetId": 750714980
+    },
+    {
+      "path": "audio/STREAMS/TK.osw.idx",
+      "size": 2327,
+      "crc32": "50B1D9DB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/audio__STREAMS__TK.osw.idx",
+      "asset": "audio__STREAMS__TK.osw.idx",
+      "assetId": 750715128
+    },
+    {
+      "path": "data/360Default1280x720.cfg",
+      "size": 10898,
+      "crc32": "3B18A472",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__360Default1280x720.cfg",
+      "asset": "data__360Default1280x720.cfg",
+      "assetId": 750715206
+    },
+    {
+      "path": "data/360Default960x720.cfg",
+      "size": 10888,
+      "crc32": "A0FA1B31",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__360Default960x720.cfg",
+      "asset": "data__360Default960x720.cfg",
+      "assetId": 750715302
+    },
+    {
+      "path": "data/Decision/Allowed/Cop.ped",
+      "size": 4908,
+      "crc32": "C013AF58",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__Cop.ped",
+      "asset": "data__Decision__Allowed__Cop.ped",
+      "assetId": 750715917
+    },
+    {
+      "path": "data/Decision/Allowed/Fireman.ped",
+      "size": 4435,
+      "crc32": "96D4B369",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__Fireman.ped",
+      "asset": "data__Decision__Allowed__Fireman.ped",
+      "assetId": 750715988
+    },
+    {
+      "path": "data/Decision/Allowed/GangMbr.ped",
+      "size": 6194,
+      "crc32": "15B34E76",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__GangMbr.ped",
+      "asset": "data__Decision__Allowed__GangMbr.ped",
+      "assetId": 750716035
+    },
+    {
+      "path": "data/Decision/Allowed/Indoors.ped",
+      "size": 2809,
+      "crc32": "3BDFA807",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__Indoors.ped",
+      "asset": "data__Decision__Allowed__Indoors.ped",
+      "assetId": 750716112
+    },
+    {
+      "path": "data/Decision/Allowed/MISSION.grp",
+      "size": 2758,
+      "crc32": "21B4ED0C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__MISSION.grp",
+      "asset": "data__Decision__Allowed__MISSION.grp",
+      "assetId": 750716520
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM.grp",
+      "size": 4623,
+      "crc32": "4BFD7993",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__RANDOM.grp",
+      "asset": "data__Decision__Allowed__RANDOM.grp",
+      "assetId": 750716738
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM.ped",
+      "size": 4142,
+      "crc32": "4A83AE4F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__RANDOM.ped",
+      "asset": "data__Decision__Allowed__RANDOM.ped",
+      "assetId": 750716771
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM2.grp",
+      "size": 4623,
+      "crc32": "019D60D4",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__RANDOM2.grp",
+      "asset": "data__Decision__Allowed__RANDOM2.grp",
+      "assetId": 750716833
+    },
+    {
+      "path": "data/Decision/Allowed/R_Norm.ped",
+      "size": 6450,
+      "crc32": "7802FF4E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__R_Norm.ped",
+      "asset": "data__Decision__Allowed__R_Norm.ped",
+      "assetId": 750716585
+    },
+    {
+      "path": "data/Decision/Allowed/R_Tough.ped",
+      "size": 6378,
+      "crc32": "53CD0E9B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__R_Tough.ped",
+      "asset": "data__Decision__Allowed__R_Tough.ped",
+      "assetId": 750716634
+    },
+    {
+      "path": "data/Decision/Allowed/R_Weak.ped",
+      "size": 6289,
+      "crc32": "DC81FB7D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__R_Weak.ped",
+      "asset": "data__Decision__Allowed__R_Weak.ped",
+      "assetId": 750716685
+    },
+    {
+      "path": "data/Decision/Allowed/m_empty.ped",
+      "size": 982,
+      "crc32": "052FD413",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__m_empty.ped",
+      "asset": "data__Decision__Allowed__m_empty.ped",
+      "assetId": 750716182
+    },
+    {
+      "path": "data/Decision/Allowed/m_norm.ped",
+      "size": 4142,
+      "crc32": "4A83AE4F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__m_norm.ped",
+      "asset": "data__Decision__Allowed__m_norm.ped",
+      "assetId": 750716241
+    },
+    {
+      "path": "data/Decision/Allowed/m_plyr.ped",
+      "size": 2000,
+      "crc32": "DECD5440",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__m_plyr.ped",
+      "asset": "data__Decision__Allowed__m_plyr.ped",
+      "assetId": 750716304
+    },
+    {
+      "path": "data/Decision/Allowed/m_steal.ped",
+      "size": 3663,
+      "crc32": "AB0EA14E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__m_steal.ped",
+      "asset": "data__Decision__Allowed__m_steal.ped",
+      "assetId": 750716360
+    },
+    {
+      "path": "data/Decision/Allowed/m_tough.ped",
+      "size": 3980,
+      "crc32": "54E8AB62",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__m_tough.ped",
+      "asset": "data__Decision__Allowed__m_tough.ped",
+      "assetId": 750716422
+    },
+    {
+      "path": "data/Decision/Allowed/m_weak.ped",
+      "size": 4062,
+      "crc32": "29E03E19",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__Allowed__m_weak.ped",
+      "asset": "data__Decision__Allowed__m_weak.ped",
+      "assetId": 750716471
+    },
+    {
+      "path": "data/Decision/PedEvent.txt",
+      "size": 1298,
+      "crc32": "706A1567",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__Decision__PedEvent.txt",
+      "asset": "data__Decision__PedEvent.txt",
+      "assetId": 750716907
+    },
+    {
+      "path": "data/ShopUVs.dat",
+      "size": 30509,
+      "crc32": "36D53217",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__ShopUVs.dat",
+      "asset": "data__ShopUVs.dat",
+      "assetId": 750729298
+    },
+    {
+      "path": "data/TouchDefaultPhone3x2.cfg",
+      "size": 10912,
+      "crc32": "43B5E512",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__TouchDefaultPhone3x2.cfg",
+      "asset": "data__TouchDefaultPhone3x2.cfg",
+      "assetId": 750729933
+    },
+    {
+      "path": "data/TouchDefaultPhoneWidescreen.cfg",
+      "size": 10924,
+      "crc32": "7FE87BF0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__TouchDefaultPhoneWidescreen.cfg",
+      "asset": "data__TouchDefaultPhoneWidescreen.cfg",
+      "assetId": 750730003
+    },
+    {
+      "path": "data/TouchDefaultTablet4x3.cfg",
+      "size": 10926,
+      "crc32": "530795E1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__TouchDefaultTablet4x3.cfg",
+      "asset": "data__TouchDefaultTablet4x3.cfg",
+      "assetId": 750730058
+    },
+    {
+      "path": "data/TouchDefaultTabletWidescreen.cfg",
+      "size": 10923,
+      "crc32": "64B7E9FC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__TouchDefaultTabletWidescreen.cfg",
+      "asset": "data__TouchDefaultTabletWidescreen.cfg",
+      "assetId": 750730142
+    },
+    {
+      "path": "data/animgrp.dat",
+      "size": 3096,
+      "crc32": "D42569EA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__animgrp.dat",
+      "asset": "data__animgrp.dat",
+      "assetId": 750715392
+    },
+    {
+      "path": "data/ar_stats.dat",
+      "size": 3593,
+      "crc32": "296A6DCB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__ar_stats.dat",
+      "asset": "data__ar_stats.dat",
+      "assetId": 750715511
+    },
+    {
+      "path": "data/carcols.dat",
+      "size": 15361,
+      "crc32": "39C2EE08",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__carcols.dat",
+      "asset": "data__carcols.dat",
+      "assetId": 750715568
+    },
+    {
+      "path": "data/cargrp.dat",
+      "size": 3909,
+      "crc32": "FE2B509D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__cargrp.dat",
+      "asset": "data__cargrp.dat",
+      "assetId": 750715623
+    },
+    {
+      "path": "data/carmods.dat",
+      "size": 8763,
+      "crc32": "5C1629CE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__carmods.dat",
+      "asset": "data__carmods.dat",
+      "assetId": 750715715
+    },
+    {
+      "path": "data/clothes.dat",
+      "size": 5317,
+      "crc32": "BE83F4EC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__clothes.dat",
+      "asset": "data__clothes.dat",
+      "assetId": 750715805
+    },
+    {
+      "path": "data/colorcycle.dat",
+      "size": 14000,
+      "crc32": "F4B4D6F6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__colorcycle.dat",
+      "asset": "data__colorcycle.dat",
+      "assetId": 750715862
+    },
+    {
+      "path": "data/default(Copy).txt",
+      "size": 617,
+      "crc32": "FD2A4E49",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__default_Copy_.txt",
+      "asset": "data__default_Copy_.txt",
+      "assetId": 750716968
+    },
+    {
+      "path": "data/default.dat",
+      "size": 577,
+      "crc32": "7E1488CE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__default.dat",
+      "asset": "data__default.dat",
+      "assetId": 750717036
+    },
+    {
+      "path": "data/default.ide",
+      "size": 4679,
+      "crc32": "A8F13F50",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__default.ide",
+      "asset": "data__default.ide",
+      "assetId": 750717156
+    },
+    {
+      "path": "data/fonts.dat",
+      "size": 3576,
+      "crc32": "B5A8D8FF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__fonts.dat",
+      "asset": "data__fonts.dat",
+      "assetId": 750717227
+    },
+    {
+      "path": "data/furnitur.dat",
+      "size": 16480,
+      "crc32": "E00F4C2A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__furnitur.dat",
+      "asset": "data__furnitur.dat",
+      "assetId": 750717284
+    },
+    {
+      "path": "data/gridref.dat",
+      "size": 1498,
+      "crc32": "797CA773",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__gridref.dat",
+      "asset": "data__gridref.dat",
+      "assetId": 750717356
+    },
+    {
+      "path": "data/gta(Copy).txt",
+      "size": 3776,
+      "crc32": "7836E07F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__gta_Copy_.txt",
+      "asset": "data__gta_Copy_.txt",
+      "assetId": 750717452
+    },
+    {
+      "path": "data/gta.dat",
+      "size": 3776,
+      "crc32": "7836E07F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__gta.dat",
+      "asset": "data__gta.dat",
+      "assetId": 750717575
+    },
+    {
+      "path": "data/gtasa_vehicleAudioSettings.cfg",
+      "size": 16479,
+      "crc32": "0CFF9F3C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__gtasa_vehicleAudioSettings.cfg",
+      "asset": "data__gtasa_vehicleAudioSettings.cfg",
+      "assetId": 750717674
+    },
+    {
+      "path": "data/handling.cfg",
+      "size": 64532,
+      "crc32": "4C7ED757",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__handling.cfg",
+      "asset": "data__handling.cfg",
+      "assetId": 750717763
+    },
+    {
+      "path": "data/info.zon",
+      "size": 28139,
+      "crc32": "1D099B54",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__info.zon",
+      "asset": "data__info.zon",
+      "assetId": 750717833
+    },
+    {
+      "path": "data/mainV1.scm",
+      "size": 3169778,
+      "crc32": "F11059B0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__mainV1.scm",
+      "asset": "data__mainV1.scm",
+      "assetId": 750717956
+    },
+    {
+      "path": "data/map.zon",
+      "size": 436,
+      "crc32": "FD666CB6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__map.zon",
+      "asset": "data__map.zon",
+      "assetId": 750718115
+    },
+    {
+      "path": "data/maps/Audiozon.ipl",
+      "size": 10802,
+      "crc32": "10E627A1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__Audiozon.ipl",
+      "asset": "data__maps__Audiozon.ipl",
+      "assetId": 750718223
+    },
+    {
+      "path": "data/maps/LA/LAe.ide",
+      "size": 12249,
+      "crc32": "DB4DCEE2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAe.ide",
+      "asset": "data__maps__LA__LAe.ide",
+      "assetId": 750722253
+    },
+    {
+      "path": "data/maps/LA/LAe.ipl",
+      "size": 27328,
+      "crc32": "A4D4FF23",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAe.ipl",
+      "asset": "data__maps__LA__LAe.ipl",
+      "assetId": 750722303
+    },
+    {
+      "path": "data/maps/LA/LAe2.ide",
+      "size": 21907,
+      "crc32": "2DBD1631",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAe2.ide",
+      "asset": "data__maps__LA__LAe2.ide",
+      "assetId": 750722397
+    },
+    {
+      "path": "data/maps/LA/LAe2.ipl",
+      "size": 33651,
+      "crc32": "1D3FA4D5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAe2.ipl",
+      "asset": "data__maps__LA__LAe2.ipl",
+      "assetId": 750722459
+    },
+    {
+      "path": "data/maps/LA/LAhills.ide",
+      "size": 10601,
+      "crc32": "E2A5780F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAhills.ide",
+      "asset": "data__maps__LA__LAhills.ide",
+      "assetId": 750722515
+    },
+    {
+      "path": "data/maps/LA/LAhills.ipl",
+      "size": 34506,
+      "crc32": "6D7F547B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAhills.ipl",
+      "asset": "data__maps__LA__LAhills.ipl",
+      "assetId": 750722593
+    },
+    {
+      "path": "data/maps/LA/LAn.ide",
+      "size": 11107,
+      "crc32": "2081CEAA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAn.ide",
+      "asset": "data__maps__LA__LAn.ide",
+      "assetId": 750722656
+    },
+    {
+      "path": "data/maps/LA/LAn.ipl",
+      "size": 14264,
+      "crc32": "6BFBFC34",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAn.ipl",
+      "asset": "data__maps__LA__LAn.ipl",
+      "assetId": 750722736
+    },
+    {
+      "path": "data/maps/LA/LAn2.ide",
+      "size": 9565,
+      "crc32": "90F73779",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAn2.ide",
+      "asset": "data__maps__LA__LAn2.ide",
+      "assetId": 750722835
+    },
+    {
+      "path": "data/maps/LA/LAn2.ipl",
+      "size": 13185,
+      "crc32": "94840C35",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAn2.ipl",
+      "asset": "data__maps__LA__LAn2.ipl",
+      "assetId": 750722948
+    },
+    {
+      "path": "data/maps/LA/LAs.ide",
+      "size": 12575,
+      "crc32": "FD185B52",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAs.ide",
+      "asset": "data__maps__LA__LAs.ide",
+      "assetId": 750723027
+    },
+    {
+      "path": "data/maps/LA/LAs.ipl",
+      "size": 22414,
+      "crc32": "E02A08BC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAs.ipl",
+      "asset": "data__maps__LA__LAs.ipl",
+      "assetId": 750723089
+    },
+    {
+      "path": "data/maps/LA/LAs2.ide",
+      "size": 12364,
+      "crc32": "515B3F1F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAs2.ide",
+      "asset": "data__maps__LA__LAs2.ide",
+      "assetId": 750723184
+    },
+    {
+      "path": "data/maps/LA/LAs2.ipl",
+      "size": 38441,
+      "crc32": "3384A420",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAs2.ipl",
+      "asset": "data__maps__LA__LAs2.ipl",
+      "assetId": 750723252
+    },
+    {
+      "path": "data/maps/LA/LAw.ide",
+      "size": 9412,
+      "crc32": "96B65D9E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAw.ide",
+      "asset": "data__maps__LA__LAw.ide",
+      "assetId": 750723355
+    },
+    {
+      "path": "data/maps/LA/LAw.ipl",
+      "size": 15105,
+      "crc32": "DEEDA037",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAw.ipl",
+      "asset": "data__maps__LA__LAw.ipl",
+      "assetId": 750723420
+    },
+    {
+      "path": "data/maps/LA/LAw2.ide",
+      "size": 11060,
+      "crc32": "AE85DB40",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAw2.ide",
+      "asset": "data__maps__LA__LAw2.ide",
+      "assetId": 750723498
+    },
+    {
+      "path": "data/maps/LA/LAw2.ipl",
+      "size": 18232,
+      "crc32": "6A5B635D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAw2.ipl",
+      "asset": "data__maps__LA__LAw2.ipl",
+      "assetId": 750723575
+    },
+    {
+      "path": "data/maps/LA/LAxref.ide",
+      "size": 10477,
+      "crc32": "4BF81D6F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LAxref.ide",
+      "asset": "data__maps__LA__LAxref.ide",
+      "assetId": 750723817
+    },
+    {
+      "path": "data/maps/LA/LaWn.ide",
+      "size": 13092,
+      "crc32": "81C7AB4B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LaWn.ide",
+      "asset": "data__maps__LA__LaWn.ide",
+      "assetId": 750723639
+    },
+    {
+      "path": "data/maps/LA/LaWn.ipl",
+      "size": 24330,
+      "crc32": "AB5AD2D2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__LA__LaWn.ipl",
+      "asset": "data__maps__LA__LaWn.ipl",
+      "assetId": 750723720
+    },
+    {
+      "path": "data/maps/SF/SFSe.ide",
+      "size": 30227,
+      "crc32": "C2794116",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFSe.ide",
+      "asset": "data__maps__SF__SFSe.ide",
+      "assetId": 750726008
+    },
+    {
+      "path": "data/maps/SF/SFSe.ipl",
+      "size": 53359,
+      "crc32": "E0BCE21B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFSe.ipl",
+      "asset": "data__maps__SF__SFSe.ipl",
+      "assetId": 750726078
+    },
+    {
+      "path": "data/maps/SF/SFe.ide",
+      "size": 16224,
+      "crc32": "50B63250",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFe.ide",
+      "asset": "data__maps__SF__SFe.ide",
+      "assetId": 750725567
+    },
+    {
+      "path": "data/maps/SF/SFe.ipl",
+      "size": 26707,
+      "crc32": "A4250BFD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFe.ipl",
+      "asset": "data__maps__SF__SFe.ipl",
+      "assetId": 750725620
+    },
+    {
+      "path": "data/maps/SF/SFn.ide",
+      "size": 11219,
+      "crc32": "8242DCA2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFn.ide",
+      "asset": "data__maps__SF__SFn.ide",
+      "assetId": 750725720
+    },
+    {
+      "path": "data/maps/SF/SFn.ipl",
+      "size": 26201,
+      "crc32": "D8AA66E4",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFn.ipl",
+      "asset": "data__maps__SF__SFn.ipl",
+      "assetId": 750725778
+    },
+    {
+      "path": "data/maps/SF/SFs.ide",
+      "size": 18948,
+      "crc32": "862A162B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFs.ide",
+      "asset": "data__maps__SF__SFs.ide",
+      "assetId": 750725866
+    },
+    {
+      "path": "data/maps/SF/SFs.ipl",
+      "size": 37969,
+      "crc32": "1329A1C6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFs.ipl",
+      "asset": "data__maps__SF__SFs.ipl",
+      "assetId": 750725930
+    },
+    {
+      "path": "data/maps/SF/SFw.ide",
+      "size": 16473,
+      "crc32": "A545D55A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFw.ide",
+      "asset": "data__maps__SF__SFw.ide",
+      "assetId": 750726179
+    },
+    {
+      "path": "data/maps/SF/SFw.ipl",
+      "size": 29247,
+      "crc32": "B8E81F1A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFw.ipl",
+      "asset": "data__maps__SF__SFw.ipl",
+      "assetId": 750726251
+    },
+    {
+      "path": "data/maps/SF/SFxref.ide",
+      "size": 4631,
+      "crc32": "075FDCDD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__SF__SFxref.ide",
+      "asset": "data__maps__SF__SFxref.ide",
+      "assetId": 750726328
+    },
+    {
+      "path": "data/maps/country/countn2.ide",
+      "size": 35439,
+      "crc32": "ECF2E93B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countn2.ide",
+      "asset": "data__maps__country__countn2.ide",
+      "assetId": 750718352
+    },
+    {
+      "path": "data/maps/country/countn2.ipl",
+      "size": 41665,
+      "crc32": "C8DD0F9C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countn2.ipl",
+      "asset": "data__maps__country__countn2.ipl",
+      "assetId": 750718425
+    },
+    {
+      "path": "data/maps/country/countryN.ide",
+      "size": 11308,
+      "crc32": "3C473AB0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countryN.ide",
+      "asset": "data__maps__country__countryN.ide",
+      "assetId": 750718656
+    },
+    {
+      "path": "data/maps/country/countryN.ipl",
+      "size": 14407,
+      "crc32": "A8A6EDBC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countryN.ipl",
+      "asset": "data__maps__country__countryN.ipl",
+      "assetId": 750718740
+    },
+    {
+      "path": "data/maps/country/countryS.ide",
+      "size": 18450,
+      "crc32": "236E9DD9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countryS.ide",
+      "asset": "data__maps__country__countryS.ide",
+      "assetId": 750718824
+    },
+    {
+      "path": "data/maps/country/countryS.ipl",
+      "size": 33835,
+      "crc32": "5B8E1863",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countryS.ipl",
+      "asset": "data__maps__country__countryS.ipl",
+      "assetId": 750718870
+    },
+    {
+      "path": "data/maps/country/countryW.ide",
+      "size": 19704,
+      "crc32": "3E29874E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countryW.ide",
+      "asset": "data__maps__country__countryW.ide",
+      "assetId": 750718945
+    },
+    {
+      "path": "data/maps/country/countrye.ide",
+      "size": 34529,
+      "crc32": "CE6108D2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countrye.ide",
+      "asset": "data__maps__country__countrye.ide",
+      "assetId": 750718512
+    },
+    {
+      "path": "data/maps/country/countrye.ipl",
+      "size": 49301,
+      "crc32": "8F75527B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countrye.ipl",
+      "asset": "data__maps__country__countrye.ipl",
+      "assetId": 750718587
+    },
+    {
+      "path": "data/maps/country/countryw.ipl",
+      "size": 35057,
+      "crc32": "DA96B890",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__countryw.ipl",
+      "asset": "data__maps__country__countryw.ipl",
+      "assetId": 750719003
+    },
+    {
+      "path": "data/maps/country/counxref.ide",
+      "size": 8494,
+      "crc32": "8833254D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__country__counxref.ide",
+      "asset": "data__maps__country__counxref.ide",
+      "assetId": 750719073
+    },
+    {
+      "path": "data/maps/cull.ipl",
+      "size": 104318,
+      "crc32": "D472A015",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__cull.ipl",
+      "asset": "data__maps__cull.ipl",
+      "assetId": 750719136
+    },
+    {
+      "path": "data/maps/generic/barriers.ide",
+      "size": 1437,
+      "crc32": "F85417D2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__generic__barriers.ide",
+      "asset": "data__maps__generic__barriers.ide",
+      "assetId": 750719196
+    },
+    {
+      "path": "data/maps/generic/dynamic.ide",
+      "size": 4611,
+      "crc32": "99F7EDCD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__generic__dynamic.ide",
+      "asset": "data__maps__generic__dynamic.ide",
+      "assetId": 750719282
+    },
+    {
+      "path": "data/maps/generic/dynamic2.ide",
+      "size": 10510,
+      "crc32": "BDF00940",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__generic__dynamic2.ide",
+      "asset": "data__maps__generic__dynamic2.ide",
+      "assetId": 750719380
+    },
+    {
+      "path": "data/maps/generic/multiobj.ide",
+      "size": 5020,
+      "crc32": "9744596A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__generic__multiobj.ide",
+      "asset": "data__maps__generic__multiobj.ide",
+      "assetId": 750719471
+    },
+    {
+      "path": "data/maps/generic/procobj.ide",
+      "size": 4755,
+      "crc32": "EB32E78A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__generic__procobj.ide",
+      "asset": "data__maps__generic__procobj.ide",
+      "assetId": 750719583
+    },
+    {
+      "path": "data/maps/generic/vegepart.ide",
+      "size": 8062,
+      "crc32": "01DD8570",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__generic__vegepart.ide",
+      "asset": "data__maps__generic__vegepart.ide",
+      "assetId": 750719692
+    },
+    {
+      "path": "data/maps/interior/gen_int1.ide",
+      "size": 2747,
+      "crc32": "3DE880D0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int1.ide",
+      "asset": "data__maps__interior__gen_int1.ide",
+      "assetId": 750719754
+    },
+    {
+      "path": "data/maps/interior/gen_int1.ipl",
+      "size": 21074,
+      "crc32": "42D17B5C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int1.ipl",
+      "asset": "data__maps__interior__gen_int1.ipl",
+      "assetId": 750719834
+    },
+    {
+      "path": "data/maps/interior/gen_int2.ide",
+      "size": 10941,
+      "crc32": "F21FDE09",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int2.ide",
+      "asset": "data__maps__interior__gen_int2.ide",
+      "assetId": 750719955
+    },
+    {
+      "path": "data/maps/interior/gen_int2.ipl",
+      "size": 1683,
+      "crc32": "8514FAA0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int2.ipl",
+      "asset": "data__maps__interior__gen_int2.ipl",
+      "assetId": 750720017
+    },
+    {
+      "path": "data/maps/interior/gen_int3.ide",
+      "size": 3252,
+      "crc32": "7F3A174A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int3.ide",
+      "asset": "data__maps__interior__gen_int3.ide",
+      "assetId": 750720087
+    },
+    {
+      "path": "data/maps/interior/gen_int3.ipl",
+      "size": 2091,
+      "crc32": "641CE357",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int3.ipl",
+      "asset": "data__maps__interior__gen_int3.ipl",
+      "assetId": 750720208
+    },
+    {
+      "path": "data/maps/interior/gen_int4.ide",
+      "size": 2323,
+      "crc32": "A860ECCB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int4.ide",
+      "asset": "data__maps__interior__gen_int4.ide",
+      "assetId": 750720302
+    },
+    {
+      "path": "data/maps/interior/gen_int4.ipl",
+      "size": 1185,
+      "crc32": "9D097122",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int4.ipl",
+      "asset": "data__maps__interior__gen_int4.ipl",
+      "assetId": 750720412
+    },
+    {
+      "path": "data/maps/interior/gen_int5.ide",
+      "size": 4682,
+      "crc32": "856762C8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int5.ide",
+      "asset": "data__maps__interior__gen_int5.ide",
+      "assetId": 750720497
+    },
+    {
+      "path": "data/maps/interior/gen_int5.ipl",
+      "size": 2988,
+      "crc32": "93378B8A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_int5.ipl",
+      "asset": "data__maps__interior__gen_int5.ipl",
+      "assetId": 750720604
+    },
+    {
+      "path": "data/maps/interior/gen_intb.ide",
+      "size": 5459,
+      "crc32": "83692C39",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_intb.ide",
+      "asset": "data__maps__interior__gen_intb.ide",
+      "assetId": 750720692
+    },
+    {
+      "path": "data/maps/interior/gen_intb.ipl",
+      "size": 1626,
+      "crc32": "71C796D6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__gen_intb.ipl",
+      "asset": "data__maps__interior__gen_intb.ipl",
+      "assetId": 750720775
+    },
+    {
+      "path": "data/maps/interior/int_LA.ide",
+      "size": 6004,
+      "crc32": "3C3D8F1E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_LA.ide",
+      "asset": "data__maps__interior__int_LA.ide",
+      "assetId": 750721111
+    },
+    {
+      "path": "data/maps/interior/int_LA.ipl",
+      "size": 1312,
+      "crc32": "E974AA46",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_LA.ipl",
+      "asset": "data__maps__interior__int_LA.ipl",
+      "assetId": 750721214
+    },
+    {
+      "path": "data/maps/interior/int_SF.ide",
+      "size": 1260,
+      "crc32": "7579B46F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_SF.ide",
+      "asset": "data__maps__interior__int_SF.ide",
+      "assetId": 750721292
+    },
+    {
+      "path": "data/maps/interior/int_SF.ipl",
+      "size": 1334,
+      "crc32": "F509B58C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_SF.ipl",
+      "asset": "data__maps__interior__int_SF.ipl",
+      "assetId": 750721406
+    },
+    {
+      "path": "data/maps/interior/int_cont.ide",
+      "size": 385,
+      "crc32": "1E4C3600",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_cont.ide",
+      "asset": "data__maps__interior__int_cont.ide",
+      "assetId": 750720879
+    },
+    {
+      "path": "data/maps/interior/int_cont.ipl",
+      "size": 910,
+      "crc32": "754D556B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_cont.ipl",
+      "asset": "data__maps__interior__int_cont.ipl",
+      "assetId": 750720967
+    },
+    {
+      "path": "data/maps/interior/int_veg.ide",
+      "size": 4684,
+      "crc32": "80D3A557",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_veg.ide",
+      "asset": "data__maps__interior__int_veg.ide",
+      "assetId": 750721481
+    },
+    {
+      "path": "data/maps/interior/int_veg.ipl",
+      "size": 5299,
+      "crc32": "060D25A6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__int_veg.ipl",
+      "asset": "data__maps__interior__int_veg.ipl",
+      "assetId": 750721585
+    },
+    {
+      "path": "data/maps/interior/propext.ide",
+      "size": 2340,
+      "crc32": "9781BF56",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__propext.ide",
+      "asset": "data__maps__interior__propext.ide",
+      "assetId": 750721676
+    },
+    {
+      "path": "data/maps/interior/props.ide",
+      "size": 26326,
+      "crc32": "B6473E81",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__props.ide",
+      "asset": "data__maps__interior__props.ide",
+      "assetId": 750721750
+    },
+    {
+      "path": "data/maps/interior/props2.ide",
+      "size": 21174,
+      "crc32": "D69FEAD9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__props2.ide",
+      "asset": "data__maps__interior__props2.ide",
+      "assetId": 750721839
+    },
+    {
+      "path": "data/maps/interior/savehous.ide",
+      "size": 1724,
+      "crc32": "8B0C5C34",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__savehous.ide",
+      "asset": "data__maps__interior__savehous.ide",
+      "assetId": 750721916
+    },
+    {
+      "path": "data/maps/interior/savehous.ipl",
+      "size": 2959,
+      "crc32": "2F0605E0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__savehous.ipl",
+      "asset": "data__maps__interior__savehous.ipl",
+      "assetId": 750722003
+    },
+    {
+      "path": "data/maps/interior/stadint.ide",
+      "size": 2851,
+      "crc32": "2403C47E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__stadint.ide",
+      "asset": "data__maps__interior__stadint.ide",
+      "assetId": 750722093
+    },
+    {
+      "path": "data/maps/interior/stadint.ipl",
+      "size": 6299,
+      "crc32": "C18F5D6D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__interior__stadint.ipl",
+      "asset": "data__maps__interior__stadint.ipl",
+      "assetId": 750722163
+    },
+    {
+      "path": "data/maps/leveldes/leveldes.ide",
+      "size": 360,
+      "crc32": "DF205205",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__leveldes.ide",
+      "asset": "data__maps__leveldes__leveldes.ide",
+      "assetId": 750723885
+    },
+    {
+      "path": "data/maps/leveldes/leveldes.ipl",
+      "size": 165,
+      "crc32": "D2AF3D31",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__leveldes.ipl",
+      "asset": "data__maps__leveldes__leveldes.ipl",
+      "assetId": 750723960
+    },
+    {
+      "path": "data/maps/leveldes/levelmap.ide",
+      "size": 3194,
+      "crc32": "954C618D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__levelmap.ide",
+      "asset": "data__maps__leveldes__levelmap.ide",
+      "assetId": 750724047
+    },
+    {
+      "path": "data/maps/leveldes/levelmap.ipl",
+      "size": 4675,
+      "crc32": "BC3EB233",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__levelmap.ipl",
+      "asset": "data__maps__leveldes__levelmap.ipl",
+      "assetId": 750724149
+    },
+    {
+      "path": "data/maps/leveldes/levelxre.ide",
+      "size": 9897,
+      "crc32": "F47FB560",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__levelxre.ide",
+      "asset": "data__maps__leveldes__levelxre.ide",
+      "assetId": 750724214
+    },
+    {
+      "path": "data/maps/leveldes/seabed.ide",
+      "size": 12039,
+      "crc32": "BF23402C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__seabed.ide",
+      "asset": "data__maps__leveldes__seabed.ide",
+      "assetId": 750724268
+    },
+    {
+      "path": "data/maps/leveldes/seabed.ipl",
+      "size": 23342,
+      "crc32": "20BBD616",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__leveldes__seabed.ipl",
+      "asset": "data__maps__leveldes__seabed.ipl",
+      "assetId": 750724377
+    },
+    {
+      "path": "data/maps/occlu.ipl",
+      "size": 1012,
+      "crc32": "10E20FE1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__occlu.ipl",
+      "asset": "data__maps__occlu.ipl",
+      "assetId": 750724452
+    },
+    {
+      "path": "data/maps/occluLA.ipl",
+      "size": 35956,
+      "crc32": "D91D2348",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__occluLA.ipl",
+      "asset": "data__maps__occluLA.ipl",
+      "assetId": 750724620
+    },
+    {
+      "path": "data/maps/occluint.ipl",
+      "size": 2338,
+      "crc32": "7D976927",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__occluint.ipl",
+      "asset": "data__maps__occluint.ipl",
+      "assetId": 750724526
+    },
+    {
+      "path": "data/maps/occlusf.ipl",
+      "size": 16114,
+      "crc32": "ADB8768D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__occlusf.ipl",
+      "asset": "data__maps__occlusf.ipl",
+      "assetId": 750724739
+    },
+    {
+      "path": "data/maps/occluveg.ipl",
+      "size": 17944,
+      "crc32": "2154C7E5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__occluveg.ipl",
+      "asset": "data__maps__occluveg.ipl",
+      "assetId": 750724833
+    },
+    {
+      "path": "data/maps/paths.ipl",
+      "size": 2658607,
+      "crc32": "0FC81350",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__paths.ipl",
+      "asset": "data__maps__paths.ipl",
+      "assetId": 750724956
+    },
+    {
+      "path": "data/maps/paths2.ipl",
+      "size": 2292241,
+      "crc32": "BE7CF058",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__paths2.ipl",
+      "asset": "data__maps__paths2.ipl",
+      "assetId": 750725067
+    },
+    {
+      "path": "data/maps/paths3.ipl",
+      "size": 2428066,
+      "crc32": "A017F7F2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__paths3.ipl",
+      "asset": "data__maps__paths3.ipl",
+      "assetId": 750725249
+    },
+    {
+      "path": "data/maps/paths4.ipl",
+      "size": 253014,
+      "crc32": "B3F045CD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__paths4.ipl",
+      "asset": "data__maps__paths4.ipl",
+      "assetId": 750725392
+    },
+    {
+      "path": "data/maps/paths5.ipl",
+      "size": 457678,
+      "crc32": "491F3996",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__paths5.ipl",
+      "asset": "data__maps__paths5.ipl",
+      "assetId": 750725478
+    },
+    {
+      "path": "data/maps/tunnels.ipl",
+      "size": 3230,
+      "crc32": "D1A7F6C4",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__tunnels.ipl",
+      "asset": "data__maps__tunnels.ipl",
+      "assetId": 750726442
+    },
+    {
+      "path": "data/maps/vegas/VegasN.ide",
+      "size": 23715,
+      "crc32": "F31CC5AF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__VegasN.ide",
+      "asset": "data__maps__vegas__VegasN.ide",
+      "assetId": 750726713
+    },
+    {
+      "path": "data/maps/vegas/VegasS.ide",
+      "size": 18656,
+      "crc32": "777BB1C3",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__VegasS.ide",
+      "asset": "data__maps__vegas__VegasS.ide",
+      "assetId": 750726888
+    },
+    {
+      "path": "data/maps/vegas/VegasW.ide",
+      "size": 25456,
+      "crc32": "67FEB0DE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__VegasW.ide",
+      "asset": "data__maps__vegas__VegasW.ide",
+      "assetId": 750727112
+    },
+    {
+      "path": "data/maps/vegas/vegasE.ide",
+      "size": 35542,
+      "crc32": "184472C2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegasE.ide",
+      "asset": "data__maps__vegas__vegasE.ide",
+      "assetId": 750726511
+    },
+    {
+      "path": "data/maps/vegas/vegasE.ipl",
+      "size": 61084,
+      "crc32": "D53296B6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegasE.ipl",
+      "asset": "data__maps__vegas__vegasE.ipl",
+      "assetId": 750726626
+    },
+    {
+      "path": "data/maps/vegas/vegasN.ipl",
+      "size": 36651,
+      "crc32": "433A3B74",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegasN.ipl",
+      "asset": "data__maps__vegas__vegasN.ipl",
+      "assetId": 750726804
+    },
+    {
+      "path": "data/maps/vegas/vegasS.ipl",
+      "size": 30343,
+      "crc32": "141AACD2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegasS.ipl",
+      "asset": "data__maps__vegas__vegasS.ipl",
+      "assetId": 750726992
+    },
+    {
+      "path": "data/maps/vegas/vegasW.ipl",
+      "size": 49867,
+      "crc32": "730EE73D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegasW.ipl",
+      "asset": "data__maps__vegas__vegasW.ipl",
+      "assetId": 750727213
+    },
+    {
+      "path": "data/maps/vegas/vegaxref.ide",
+      "size": 5751,
+      "crc32": "D61E2BD7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegaxref.ide",
+      "asset": "data__maps__vegas__vegaxref.ide",
+      "assetId": 750727309
+    },
+    {
+      "path": "data/maps/vegas/vegaxref.ipl",
+      "size": 3661,
+      "crc32": "A81BA1E6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__vegas__vegaxref.ipl",
+      "asset": "data__maps__vegas__vegaxref.ipl",
+      "assetId": 750727372
+    },
+    {
+      "path": "data/maps/veh_mods/veh_mods.ide",
+      "size": 7323,
+      "crc32": "4BF2426C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__maps__veh_mods__veh_mods.ide",
+      "asset": "data__maps__veh_mods__veh_mods.ide",
+      "assetId": 750727461
+    },
+    {
+      "path": "data/melee.dat",
+      "size": 6306,
+      "crc32": "8040EB84",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__melee.dat",
+      "asset": "data__melee.dat",
+      "assetId": 750727546
+    },
+    {
+      "path": "data/object.dat",
+      "size": 126118,
+      "crc32": "8427CE31",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__object.dat",
+      "asset": "data__object.dat",
+      "assetId": 750727637
+    },
+    {
+      "path": "data/paths/ROADBLOX.DAT",
+      "size": 1304,
+      "crc32": "EC5F0CD2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__paths__ROADBLOX.DAT",
+      "asset": "data__paths__ROADBLOX.DAT",
+      "assetId": 750727879
+    },
+    {
+      "path": "data/paths/carrec.img",
+      "size": 2357248,
+      "crc32": "079DAB0A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__paths__carrec.img",
+      "asset": "data__paths__carrec.img",
+      "assetId": 750727787
+    },
+    {
+      "path": "data/paths/tracks.dat",
+      "size": 25474,
+      "crc32": "6778A9ED",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__paths__tracks.dat",
+      "asset": "data__paths__tracks.dat",
+      "assetId": 750727966
+    },
+    {
+      "path": "data/paths/tracks2.dat",
+      "size": 1892,
+      "crc32": "32FB5DB7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__paths__tracks2.dat",
+      "asset": "data__paths__tracks2.dat",
+      "assetId": 750728048
+    },
+    {
+      "path": "data/paths/tracks3.dat",
+      "size": 8328,
+      "crc32": "F74DB3C7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__paths__tracks3.dat",
+      "asset": "data__paths__tracks3.dat",
+      "assetId": 750728099
+    },
+    {
+      "path": "data/paths/tracks4.dat",
+      "size": 18347,
+      "crc32": "E6828D38",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__paths__tracks4.dat",
+      "asset": "data__paths__tracks4.dat",
+      "assetId": 750728167
+    },
+    {
+      "path": "data/ped.dat",
+      "size": 1276,
+      "crc32": "6E8F0E0F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__ped.dat",
+      "asset": "data__ped.dat",
+      "assetId": 750728211
+    },
+    {
+      "path": "data/pedgrp.dat",
+      "size": 5792,
+      "crc32": "2828641F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__pedgrp.dat",
+      "asset": "data__pedgrp.dat",
+      "assetId": 750728267
+    },
+    {
+      "path": "data/peds.ide",
+      "size": 33401,
+      "crc32": "C4B2B46F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__peds.ide",
+      "asset": "data__peds.ide",
+      "assetId": 750728336
+    },
+    {
+      "path": "data/pedstats.dat",
+      "size": 3604,
+      "crc32": "28918691",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__pedstats.dat",
+      "asset": "data__pedstats.dat",
+      "assetId": 750728441
+    },
+    {
+      "path": "data/plants.dat",
+      "size": 9887,
+      "crc32": "14EDC71E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__plants.dat",
+      "asset": "data__plants.dat",
+      "assetId": 750728531
+    },
+    {
+      "path": "data/popcycle.dat",
+      "size": 127108,
+      "crc32": "0CF08266",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__popcycle.dat",
+      "asset": "data__popcycle.dat",
+      "assetId": 750728640
+    },
+    {
+      "path": "data/procobj.dat",
+      "size": 10019,
+      "crc32": "9535E371",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__procobj.dat",
+      "asset": "data__procobj.dat",
+      "assetId": 750728749
+    },
+    {
+      "path": "data/script/mainV1.scm",
+      "size": 3169778,
+      "crc32": "F11059B0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__script__mainV1.scm",
+      "asset": "data__script__mainV1.scm",
+      "assetId": 750728838
+    },
+    {
+      "path": "data/script/scriptv1.img",
+      "size": 561152,
+      "crc32": "FCE75713",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__script__scriptv1.img",
+      "asset": "data__script__scriptv1.img",
+      "assetId": 750728964
+    },
+    {
+      "path": "data/scriptv1.img",
+      "size": 561152,
+      "crc32": "FCE75713",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__scriptv1.img",
+      "asset": "data__scriptv1.img",
+      "assetId": 750729047
+    },
+    {
+      "path": "data/scriptv1.img1",
+      "size": 561152,
+      "crc32": "FCE75713",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__scriptv1.img1",
+      "asset": "data__scriptv1.img1",
+      "assetId": 750729141
+    },
+    {
+      "path": "data/shopping.dat",
+      "size": 46875,
+      "crc32": "549DB8D6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__shopping.dat",
+      "asset": "data__shopping.dat",
+      "assetId": 750729209
+    },
+    {
+      "path": "data/statdisp.dat",
+      "size": 7292,
+      "crc32": "CEC1BB59",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__statdisp.dat",
+      "asset": "data__statdisp.dat",
+      "assetId": 750729410
+    },
+    {
+      "path": "data/surface.dat",
+      "size": 576,
+      "crc32": "E283EBF1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__surface.dat",
+      "asset": "data__surface.dat",
+      "assetId": 750729507
+    },
+    {
+      "path": "data/surfaud.dat",
+      "size": 6530,
+      "crc32": "C3C13277",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__surfaud.dat",
+      "asset": "data__surfaud.dat",
+      "assetId": 750729604
+    },
+    {
+      "path": "data/surfinfo.dat",
+      "size": 28106,
+      "crc32": "E582DFD8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__surfinfo.dat",
+      "asset": "data__surfinfo.dat",
+      "assetId": 750729660
+    },
+    {
+      "path": "data/timecyc.aaa",
+      "size": 38417,
+      "crc32": "1A6E920F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__timecyc.aaa",
+      "asset": "data__timecyc.aaa",
+      "assetId": 750729758
+    },
+    {
+      "path": "data/timecyc.dat",
+      "size": 40114,
+      "crc32": "BB0AD05A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__timecyc.dat",
+      "asset": "data__timecyc.dat",
+      "assetId": 750729847
+    },
+    {
+      "path": "data/txdcut.ide",
+      "size": 478,
+      "crc32": "9A3B867A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__txdcut.ide",
+      "asset": "data__txdcut.ide",
+      "assetId": 750730233
+    },
+    {
+      "path": "data/vehicles.ide",
+      "size": 21093,
+      "crc32": "72A5694A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__vehicles.ide",
+      "asset": "data__vehicles.ide",
+      "assetId": 750730305
+    },
+    {
+      "path": "data/water.dat",
+      "size": 70099,
+      "crc32": "F07CCEDA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__water.dat",
+      "asset": "data__water.dat",
+      "assetId": 750730374
+    },
+    {
+      "path": "data/water1.dat",
+      "size": 60063,
+      "crc32": "D45250E9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__water1.dat",
+      "asset": "data__water1.dat",
+      "assetId": 750730495
+    },
+    {
+      "path": "data/weapon.dat",
+      "size": 11602,
+      "crc32": "08B638C5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/data__weapon.dat",
+      "asset": "data__weapon.dat",
+      "assetId": 750730585
+    },
+    {
+      "path": "fonts/arial.ttf",
+      "size": 367112,
+      "crc32": "34BAD949",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__arial.ttf",
+      "asset": "fonts__arial.ttf",
+      "assetId": 750730659
+    },
+    {
+      "path": "fonts/arial_bold.ttf",
+      "size": 352224,
+      "crc32": "44068765",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__arial_bold.ttf",
+      "asset": "fonts__arial_bold.ttf",
+      "assetId": 750730717
+    },
+    {
+      "path": "fonts/georgia.ttf",
+      "size": 219712,
+      "crc32": "C4573D55",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__georgia.ttf",
+      "asset": "fonts__georgia.ttf",
+      "assetId": 750730819
+    },
+    {
+      "path": "fonts/gtaweap3.ttf",
+      "size": 104004,
+      "crc32": "453B8DE2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__gtaweap3.ttf",
+      "asset": "fonts__gtaweap3.ttf",
+      "assetId": 750730926
+    },
+    {
+      "path": "fonts/impact.ttf",
+      "size": 206784,
+      "crc32": "9E7AA04B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__impact.ttf",
+      "asset": "fonts__impact.ttf",
+      "assetId": 750731051
+    },
+    {
+      "path": "fonts/palatino_linotype.ttf",
+      "size": 489884,
+      "crc32": "90D504BA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__palatino_linotype.ttf",
+      "asset": "fonts__palatino_linotype.ttf",
+      "assetId": 750731203
+    },
+    {
+      "path": "fonts/quartz_ms.ttf",
+      "size": 51032,
+      "crc32": "B43E56B3",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__quartz_ms.ttf",
+      "asset": "fonts__quartz_ms.ttf",
+      "assetId": 750731292
+    },
+    {
+      "path": "fonts/sampaux3.ttf",
+      "size": 7376,
+      "crc32": "49563AB8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__sampaux3.ttf",
+      "asset": "fonts__sampaux3.ttf",
+      "assetId": 750731357
+    },
+    {
+      "path": "fonts/segoe_print.ttf",
+      "size": 172448,
+      "crc32": "5095E500",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__segoe_print.ttf",
+      "asset": "fonts__segoe_print.ttf",
+      "assetId": 750731425
+    },
+    {
+      "path": "fonts/segoe_script.ttf",
+      "size": 620204,
+      "crc32": "E16B80F7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__segoe_script.ttf",
+      "asset": "fonts__segoe_script.ttf",
+      "assetId": 750731527
+    },
+    {
+      "path": "fonts/tahoma.ttf",
+      "size": 939280,
+      "crc32": "4061CEC9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__tahoma.ttf",
+      "asset": "fonts__tahoma.ttf",
+      "assetId": 750731631
+    },
+    {
+      "path": "fonts/webdings.ttf",
+      "size": 120560,
+      "crc32": "7A06DA92",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__webdings.ttf",
+      "asset": "fonts__webdings.ttf",
+      "assetId": 750731768
+    },
+    {
+      "path": "fonts/wingding.ttf",
+      "size": 82180,
+      "crc32": "92A2F0DB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/fonts__wingding.ttf",
+      "asset": "fonts__wingding.ttf",
+      "assetId": 750731830
+    },
+    {
+      "path": "models/MINFO.BIN",
+      "size": 41100,
+      "crc32": "BD0782BD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/models__MINFO.BIN",
+      "asset": "models__MINFO.BIN",
+      "assetId": 750732218
+    },
+    {
+      "path": "models/coll/peds.col",
+      "size": 21477,
+      "crc32": "C95E684B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/models__coll__peds.col",
+      "asset": "models__coll__peds.col",
+      "assetId": 750731897
+    },
+    {
+      "path": "models/coll/vehicles.col",
+      "size": 1096,
+      "crc32": "FC094968",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/models__coll__vehicles.col",
+      "asset": "models__coll__vehicles.col",
+      "assetId": 750731981
+    },
+    {
+      "path": "models/coll/weapons.col",
+      "size": 560,
+      "crc32": "8BBD282D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/models__coll__weapons.col",
+      "asset": "models__coll__weapons.col",
+      "assetId": 750732040
+    },
+    {
+      "path": "models/effects.fxp",
+      "size": 616708,
+      "crc32": "2C4787B7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/models__effects.fxp",
+      "asset": "models__effects.fxp",
+      "assetId": 750732126
+    },
+    {
+      "path": "smx/txd/INTRO3.TXD",
+      "size": 131240,
+      "crc32": "960C6A6F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__INTRO3.TXD",
+      "asset": "smx__txd__INTRO3.TXD",
+      "assetId": 750734981
+    },
+    {
+      "path": "smx/txd/LD_BEAT.txd",
+      "size": 22312,
+      "crc32": "535B7572",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_BEAT.txd",
+      "asset": "smx__txd__LD_BEAT.txd",
+      "assetId": 750734812
+    },
+    {
+      "path": "smx/txd/LD_BUM.txd",
+      "size": 16816,
+      "crc32": "9E34B51F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_BUM.txd",
+      "asset": "smx__txd__LD_BUM.txd",
+      "assetId": 750734745
+    },
+    {
+      "path": "smx/txd/LD_CARD.txd",
+      "size": 441000,
+      "crc32": "6425DB20",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_CARD.txd",
+      "asset": "smx__txd__LD_CARD.txd",
+      "assetId": 750734662
+    },
+    {
+      "path": "smx/txd/LD_CHAT.txd",
+      "size": 5928,
+      "crc32": "8755F7FA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_CHAT.txd",
+      "asset": "smx__txd__LD_CHAT.txd",
+      "assetId": 750734537
+    },
+    {
+      "path": "smx/txd/LD_DRV.txd",
+      "size": 258096,
+      "crc32": "AD8517ED",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_DRV.txd",
+      "asset": "smx__txd__LD_DRV.txd",
+      "assetId": 750734448
+    },
+    {
+      "path": "smx/txd/LD_DUAL.txd",
+      "size": 186312,
+      "crc32": "2B27751A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_DUAL.txd",
+      "asset": "smx__txd__LD_DUAL.txd",
+      "assetId": 750734353
+    },
+    {
+      "path": "smx/txd/LD_NONE.txd",
+      "size": 113864,
+      "crc32": "8433B6CC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_NONE.txd",
+      "asset": "smx__txd__LD_NONE.txd",
+      "assetId": 750734140
+    },
+    {
+      "path": "smx/txd/LD_OTB.txd",
+      "size": 605368,
+      "crc32": "B201D77A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_OTB.txd",
+      "asset": "smx__txd__LD_OTB.txd",
+      "assetId": 750734023
+    },
+    {
+      "path": "smx/txd/LD_OTB2.txd",
+      "size": 198056,
+      "crc32": "61DC21FC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_OTB2.txd",
+      "asset": "smx__txd__LD_OTB2.txd",
+      "assetId": 750733926
+    },
+    {
+      "path": "smx/txd/LD_PLAN.txd",
+      "size": 84528,
+      "crc32": "61CBD632",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_PLAN.txd",
+      "asset": "smx__txd__LD_PLAN.txd",
+      "assetId": 750733808
+    },
+    {
+      "path": "smx/txd/LD_POKE.txd",
+      "size": 480936,
+      "crc32": "2A8DD954",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_POKE.txd",
+      "asset": "smx__txd__LD_POKE.txd",
+      "assetId": 750733717
+    },
+    {
+      "path": "smx/txd/LD_POOL.txd",
+      "size": 9000,
+      "crc32": "7C16436B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_POOL.txd",
+      "asset": "smx__txd__LD_POOL.txd",
+      "assetId": 750733635
+    },
+    {
+      "path": "smx/txd/LD_RACE.txd",
+      "size": 427688,
+      "crc32": "732A4C56",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_RACE.txd",
+      "asset": "smx__txd__LD_RACE.txd",
+      "assetId": 750733543
+    },
+    {
+      "path": "smx/txd/LD_RCE1.txd",
+      "size": 197416,
+      "crc32": "279DD4E2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_RCE1.txd",
+      "asset": "smx__txd__LD_RCE1.txd",
+      "assetId": 750733464
+    },
+    {
+      "path": "smx/txd/LD_RCE2.txd",
+      "size": 197416,
+      "crc32": "759A4AB6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_RCE2.txd",
+      "asset": "smx__txd__LD_RCE2.txd",
+      "assetId": 750733399
+    },
+    {
+      "path": "smx/txd/LD_RCE3.txd",
+      "size": 197416,
+      "crc32": "3E924029",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_RCE3.txd",
+      "asset": "smx__txd__LD_RCE3.txd",
+      "assetId": 750733317
+    },
+    {
+      "path": "smx/txd/LD_RCE4.txd",
+      "size": 197416,
+      "crc32": "3B80D66E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_RCE4.txd",
+      "asset": "smx__txd__LD_RCE4.txd",
+      "assetId": 750733207
+    },
+    {
+      "path": "smx/txd/LD_RCE5.txd",
+      "size": 32936,
+      "crc32": "A92E3ECD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_RCE5.txd",
+      "asset": "smx__txd__LD_RCE5.txd",
+      "assetId": 750733082
+    },
+    {
+      "path": "smx/txd/LD_ROUL.txd",
+      "size": 6568,
+      "crc32": "29F2A1EC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_ROUL.txd",
+      "asset": "smx__txd__LD_ROUL.txd",
+      "assetId": 750732983
+    },
+    {
+      "path": "smx/txd/LD_SLOT.txd",
+      "size": 13096,
+      "crc32": "466259E1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_SLOT.txd",
+      "asset": "smx__txd__LD_SLOT.txd",
+      "assetId": 750732785
+    },
+    {
+      "path": "smx/txd/LD_SPAC.txd",
+      "size": 186312,
+      "crc32": "6D4DF81C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_SPAC.txd",
+      "asset": "smx__txd__LD_SPAC.txd",
+      "assetId": 750732703
+    },
+    {
+      "path": "smx/txd/LD_TATT.txd",
+      "size": 104488,
+      "crc32": "962CDAF6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LD_TATT.txd",
+      "asset": "smx__txd__LD_TATT.txd",
+      "assetId": 750732617
+    },
+    {
+      "path": "smx/txd/LOADSCS.txd",
+      "size": 3279272,
+      "crc32": "C5140CFF",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LOADSCS.txd",
+      "asset": "smx__txd__LOADSCS.txd",
+      "assetId": 750731255
+    },
+    {
+      "path": "smx/txd/LOADSUK.txd",
+      "size": 1968040,
+      "crc32": "6554D0FA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__LOADSUK.txd",
+      "asset": "smx__txd__LOADSUK.txd",
+      "assetId": 750731079
+    },
+    {
+      "path": "smx/txd/NTD_RESOURCES.txd",
+      "size": 1360808,
+      "crc32": "1A14CD91",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__NTD_RESOURCES.txd",
+      "asset": "smx__txd__NTD_RESOURCES.txd",
+      "assetId": 750730987
+    },
+    {
+      "path": "smx/txd/fonts.txd",
+      "size": 524584,
+      "crc32": "0E5A99B9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__fonts.txd",
+      "asset": "smx__txd__fonts.txd",
+      "assetId": 750735280
+    },
+    {
+      "path": "smx/txd/hud.txd",
+      "size": 51624,
+      "crc32": "8E79F3BC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__hud.txd",
+      "asset": "smx__txd__hud.txd",
+      "assetId": 750735225
+    },
+    {
+      "path": "smx/txd/intro1.txd",
+      "size": 131240,
+      "crc32": "76B665DD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__intro1.txd",
+      "asset": "smx__txd__intro1.txd",
+      "assetId": 750735154
+    },
+    {
+      "path": "smx/txd/intro2.txd",
+      "size": 131240,
+      "crc32": "FC9A16E8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__intro2.txd",
+      "asset": "smx__txd__intro2.txd",
+      "assetId": 750735065
+    },
+    {
+      "path": "smx/txd/intro4.txd",
+      "size": 131240,
+      "crc32": "768EFA1F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__intro4.txd",
+      "asset": "smx__txd__intro4.txd",
+      "assetId": 750734902
+    },
+    {
+      "path": "smx/txd/ld_grav.txd",
+      "size": 262440,
+      "crc32": "2A6857FD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__ld_grav.txd",
+      "asset": "smx__txd__ld_grav.txd",
+      "assetId": 750734239
+    },
+    {
+      "path": "smx/txd/ld_shtr.txd",
+      "size": 277544,
+      "crc32": "8ABB72A5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__ld_shtr.txd",
+      "asset": "smx__txd__ld_shtr.txd",
+      "assetId": 750732879
+    },
+    {
+      "path": "smx/txd/load0uk.txd",
+      "size": 131240,
+      "crc32": "B9B40665",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__load0uk.txd",
+      "asset": "smx__txd__load0uk.txd",
+      "assetId": 750732534
+    },
+    {
+      "path": "smx/txd/loadsc0.txd",
+      "size": 131240,
+      "crc32": "105D0DFB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc0.txd",
+      "asset": "smx__txd__loadsc0.txd",
+      "assetId": 750732446
+    },
+    {
+      "path": "smx/txd/loadsc1.txd",
+      "size": 131240,
+      "crc32": "B9F85944",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc1.txd",
+      "asset": "smx__txd__loadsc1.txd",
+      "assetId": 750732353
+    },
+    {
+      "path": "smx/txd/loadsc10.txd",
+      "size": 131240,
+      "crc32": "DC98F996",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc10.txd",
+      "asset": "smx__txd__loadsc10.txd",
+      "assetId": 750732313
+    },
+    {
+      "path": "smx/txd/loadsc11.txd",
+      "size": 131240,
+      "crc32": "7C63C9CD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc11.txd",
+      "asset": "smx__txd__loadsc11.txd",
+      "assetId": 750732254
+    },
+    {
+      "path": "smx/txd/loadsc12.txd",
+      "size": 131240,
+      "crc32": "60E7F226",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc12.txd",
+      "asset": "smx__txd__loadsc12.txd",
+      "assetId": 750732160
+    },
+    {
+      "path": "smx/txd/loadsc13.txd",
+      "size": 131240,
+      "crc32": "B7211149",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc13.txd",
+      "asset": "smx__txd__loadsc13.txd",
+      "assetId": 750732077
+    },
+    {
+      "path": "smx/txd/loadsc14.txd",
+      "size": 131240,
+      "crc32": "ACD241AA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc14.txd",
+      "asset": "smx__txd__loadsc14.txd",
+      "assetId": 750732010
+    },
+    {
+      "path": "smx/txd/loadsc2.txd",
+      "size": 131240,
+      "crc32": "C9334D20",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc2.txd",
+      "asset": "smx__txd__loadsc2.txd",
+      "assetId": 750731941
+    },
+    {
+      "path": "smx/txd/loadsc3.txd",
+      "size": 131240,
+      "crc32": "3DAF322F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc3.txd",
+      "asset": "smx__txd__loadsc3.txd",
+      "assetId": 750731864
+    },
+    {
+      "path": "smx/txd/loadsc4.txd",
+      "size": 131240,
+      "crc32": "9A06526D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc4.txd",
+      "asset": "smx__txd__loadsc4.txd",
+      "assetId": 750731782
+    },
+    {
+      "path": "smx/txd/loadsc5.txd",
+      "size": 131240,
+      "crc32": "9A73F1A8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc5.txd",
+      "asset": "smx__txd__loadsc5.txd",
+      "assetId": 750731722
+    },
+    {
+      "path": "smx/txd/loadsc6.txd",
+      "size": 131240,
+      "crc32": "8CB35060",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc6.txd",
+      "asset": "smx__txd__loadsc6.txd",
+      "assetId": 750731610
+    },
+    {
+      "path": "smx/txd/loadsc7.txd",
+      "size": 131240,
+      "crc32": "05C17547",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc7.txd",
+      "asset": "smx__txd__loadsc7.txd",
+      "assetId": 750731530
+    },
+    {
+      "path": "smx/txd/loadsc8.txd",
+      "size": 131240,
+      "crc32": "7954E3B1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc8.txd",
+      "asset": "smx__txd__loadsc8.txd",
+      "assetId": 750731439
+    },
+    {
+      "path": "smx/txd/loadsc9.txd",
+      "size": 131240,
+      "crc32": "4815134A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__loadsc9.txd",
+      "asset": "smx__txd__loadsc9.txd",
+      "assetId": 750731361
+    },
+    {
+      "path": "smx/txd/outro.txd",
+      "size": 263336,
+      "crc32": "B4E6EF18",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__outro.txd",
+      "asset": "smx__txd__outro.txd",
+      "assetId": 750730882
+    },
+    {
+      "path": "smx/txd/splash1.txd",
+      "size": 65704,
+      "crc32": "0C72C32F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__splash1.txd",
+      "asset": "smx__txd__splash1.txd",
+      "assetId": 750730781
+    },
+    {
+      "path": "smx/txd/splash2.txd",
+      "size": 65704,
+      "crc32": "22C81961",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__splash2.txd",
+      "asset": "smx__txd__splash2.txd",
+      "assetId": 750730698
+    },
+    {
+      "path": "smx/txd/splash3.txd",
+      "size": 40,
+      "crc32": "7135C2CA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/smx__txd__splash3.txd",
+      "asset": "smx__txd__splash3.txd",
+      "assetId": 750730645
+    },
+    {
+      "path": "stream.ini",
+      "size": 197,
+      "crc32": "416F3BF2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/stream.ini",
+      "asset": "stream.ini",
+      "assetId": 750734767
+    },
+    {
+      "path": "texdb/SAMPCOL.img",
+      "size": 4253696,
+      "crc32": "7586E0FD",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__SAMPCOL.img",
+      "asset": "texdb__SAMPCOL.img",
+      "assetId": 750736497
+    },
+    {
+      "path": "texdb/cutscene.img",
+      "size": 16029696,
+      "crc32": "02A0FD1A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene.img",
+      "asset": "texdb__cutscene.img",
+      "assetId": 750735857
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.dat",
+      "size": 5731070,
+      "crc32": "4B57D251",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.dxt.dat",
+      "asset": "texdb__cutscene__cutscene.dxt.dat",
+      "assetId": 750735968
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.tmb",
+      "size": 19440,
+      "crc32": "C103AD22",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.dxt.tmb",
+      "asset": "texdb__cutscene__cutscene.dxt.tmb",
+      "assetId": 750736083
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.toc",
+      "size": 1628,
+      "crc32": "EF5D4F96",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.dxt.toc",
+      "asset": "texdb__cutscene__cutscene.dxt.toc",
+      "assetId": 750736152
+    },
+    {
+      "path": "texdb/cutscene/cutscene.etc.dat",
+      "size": 5482370,
+      "crc32": "EBDF98FE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.etc.dat",
+      "asset": "texdb__cutscene__cutscene.etc.dat",
+      "assetId": 750736214
+    },
+    {
+      "path": "texdb/cutscene/cutscene.etc.tmb",
+      "size": 20784,
+      "crc32": "49227BBE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.etc.tmb",
+      "asset": "texdb__cutscene__cutscene.etc.tmb",
+      "assetId": 750736291
+    },
+    {
+      "path": "texdb/cutscene/cutscene.etc.toc",
+      "size": 1628,
+      "crc32": "5A864C5F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.etc.toc",
+      "asset": "texdb__cutscene__cutscene.etc.toc",
+      "assetId": 750736345
+    },
+    {
+      "path": "texdb/cutscene/cutscene.pvr.dat",
+      "size": 3614492,
+      "crc32": "94E50BD8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.pvr.dat",
+      "asset": "texdb__cutscene__cutscene.pvr.dat",
+      "assetId": 750736410
+    },
+    {
+      "path": "texdb/cutscene/cutscene.pvr.tmb",
+      "size": 30608,
+      "crc32": "0B392FD2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.pvr.tmb",
+      "asset": "texdb__cutscene__cutscene.pvr.tmb",
+      "assetId": 750736477
+    },
+    {
+      "path": "texdb/cutscene/cutscene.pvr.toc",
+      "size": 1628,
+      "crc32": "5A38981A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.pvr.toc",
+      "asset": "texdb__cutscene__cutscene.pvr.toc",
+      "assetId": 750736606
+    },
+    {
+      "path": "texdb/cutscene/cutscene.txt",
+      "size": 24626,
+      "crc32": "6B7660B8",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.txt",
+      "asset": "texdb__cutscene__cutscene.txt",
+      "assetId": 750736672
+    },
+    {
+      "path": "texdb/cutscene/cutscene.unc.tmb",
+      "size": 56304,
+      "crc32": "9243F02D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__cutscene__cutscene.unc.tmb",
+      "asset": "texdb__cutscene__cutscene.unc.tmb",
+      "assetId": 750736734
+    },
+    {
+      "path": "texdb/gta3.img",
+      "size": 283521024,
+      "crc32": "E8630F23",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3.img",
+      "asset": "texdb__gta3.img",
+      "assetId": 750737576
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.dat",
+      "size": 185311596,
+      "crc32": "31C7D4AE",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.dxt.dat",
+      "asset": "texdb__gta3__gta3.dxt.dat",
+      "assetId": 750738719
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.tmb",
+      "size": 525340,
+      "crc32": "C1B81E24",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.dxt.tmb",
+      "asset": "texdb__gta3__gta3.dxt.tmb",
+      "assetId": 750739367
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.toc",
+      "size": 49784,
+      "crc32": "3B29332A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.dxt.toc",
+      "asset": "texdb__gta3__gta3.dxt.toc",
+      "assetId": 750739460
+    },
+    {
+      "path": "texdb/gta3/gta3.etc.dat",
+      "size": 185725552,
+      "crc32": "49B90EF7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.etc.dat",
+      "asset": "texdb__gta3__gta3.etc.dat",
+      "assetId": 750739606
+    },
+    {
+      "path": "texdb/gta3/gta3.etc.tmb",
+      "size": 575452,
+      "crc32": "29B4DB05",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.etc.tmb",
+      "asset": "texdb__gta3__gta3.etc.tmb",
+      "assetId": 750740398
+    },
+    {
+      "path": "texdb/gta3/gta3.etc.toc",
+      "size": 49784,
+      "crc32": "D01E36DB",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.etc.toc",
+      "asset": "texdb__gta3__gta3.etc.toc",
+      "assetId": 750740611
+    },
+    {
+      "path": "texdb/gta3/gta3.pvr.dat",
+      "size": 115205762,
+      "crc32": "A6FAEC9E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.pvr.dat",
+      "asset": "texdb__gta3__gta3.pvr.dat",
+      "assetId": 750740773
+    },
+    {
+      "path": "texdb/gta3/gta3.pvr.tmb",
+      "size": 794396,
+      "crc32": "3BF4220C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.pvr.tmb",
+      "asset": "texdb__gta3__gta3.pvr.tmb",
+      "assetId": 750741286
+    },
+    {
+      "path": "texdb/gta3/gta3.pvr.toc",
+      "size": 49784,
+      "crc32": "E310A67E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.pvr.toc",
+      "asset": "texdb__gta3__gta3.pvr.toc",
+      "assetId": 750741428
+    },
+    {
+      "path": "texdb/gta3/gta3.txt",
+      "size": 792665,
+      "crc32": "B75D63A1",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.txt",
+      "asset": "texdb__gta3__gta3.txt",
+      "assetId": 750741539
+    },
+    {
+      "path": "texdb/gta3/gta3.unc.tmb",
+      "size": 1457212,
+      "crc32": "86F7982F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta3__gta3.unc.tmb",
+      "asset": "texdb__gta3__gta3.unc.tmb",
+      "assetId": 750741628
+    },
+    {
+      "path": "texdb/gta_int.img",
+      "size": 44836864,
+      "crc32": "12DA150A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int.img",
+      "asset": "texdb__gta_int.img",
+      "assetId": 750741758
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.dat",
+      "size": 48496978,
+      "crc32": "F0E5E251",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.dxt.dat",
+      "asset": "texdb__gta_int__gta_int.dxt.dat",
+      "assetId": 750742061
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.tmb",
+      "size": 125994,
+      "crc32": "A15598D2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.dxt.tmb",
+      "asset": "texdb__gta_int__gta_int.dxt.tmb",
+      "assetId": 750742279
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.toc",
+      "size": 10168,
+      "crc32": "25E65D1B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.dxt.toc",
+      "asset": "texdb__gta_int__gta_int.dxt.toc",
+      "assetId": 750742339
+    },
+    {
+      "path": "texdb/gta_int/gta_int.etc.dat",
+      "size": 48441188,
+      "crc32": "264BD868",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.etc.dat",
+      "asset": "texdb__gta_int__gta_int.etc.dat",
+      "assetId": 750742409
+    },
+    {
+      "path": "texdb/gta_int/gta_int.etc.tmb",
+      "size": 141674,
+      "crc32": "76579341",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.etc.tmb",
+      "asset": "texdb__gta_int__gta_int.etc.tmb",
+      "assetId": 750742647
+    },
+    {
+      "path": "texdb/gta_int/gta_int.etc.toc",
+      "size": 10168,
+      "crc32": "14FA5A98",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.etc.toc",
+      "asset": "texdb__gta_int__gta_int.etc.toc",
+      "assetId": 750742648
+    },
+    {
+      "path": "texdb/gta_int/gta_int.pvr.dat",
+      "size": 29595400,
+      "crc32": "4BE1E62F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.pvr.dat",
+      "asset": "texdb__gta_int__gta_int.pvr.dat",
+      "assetId": 750742400
+    },
+    {
+      "path": "texdb/gta_int/gta_int.pvr.tmb",
+      "size": 188330,
+      "crc32": "F9F2F9EC",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.pvr.tmb",
+      "asset": "texdb__gta_int__gta_int.pvr.tmb",
+      "assetId": 750742328
+    },
+    {
+      "path": "texdb/gta_int/gta_int.pvr.toc",
+      "size": 10168,
+      "crc32": "B2B44D56",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.pvr.toc",
+      "asset": "texdb__gta_int__gta_int.pvr.toc",
+      "assetId": 750742252
+    },
+    {
+      "path": "texdb/gta_int/gta_int.txt",
+      "size": 159541,
+      "crc32": "1CBC3B3B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.txt",
+      "asset": "texdb__gta_int__gta_int.txt",
+      "assetId": 750742203
+    },
+    {
+      "path": "texdb/gta_int/gta_int.unc.tmb",
+      "size": 352202,
+      "crc32": "5940679C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__gta_int__gta_int.unc.tmb",
+      "asset": "texdb__gta_int__gta_int.unc.tmb",
+      "assetId": 750742097
+    },
+    {
+      "path": "texdb/menu/menu.dxt.dat",
+      "size": 7799478,
+      "crc32": "FC160ABA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.dxt.dat",
+      "asset": "texdb__menu__menu.dxt.dat",
+      "assetId": 750741961
+    },
+    {
+      "path": "texdb/menu/menu.dxt.tmb",
+      "size": 860,
+      "crc32": "A7F537B9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.dxt.tmb",
+      "asset": "texdb__menu__menu.dxt.tmb",
+      "assetId": 750741869
+    },
+    {
+      "path": "texdb/menu/menu.dxt.toc",
+      "size": 176,
+      "crc32": "23412ED9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.dxt.toc",
+      "asset": "texdb__menu__menu.dxt.toc",
+      "assetId": 750741775
+    },
+    {
+      "path": "texdb/menu/menu.etc.dat",
+      "size": 10822324,
+      "crc32": "D27E6D7E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.etc.dat",
+      "asset": "texdb__menu__menu.etc.dat",
+      "assetId": 750741595
+    },
+    {
+      "path": "texdb/menu/menu.etc.tmb",
+      "size": 860,
+      "crc32": "A7F537B9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.etc.tmb",
+      "asset": "texdb__menu__menu.etc.tmb",
+      "assetId": 750741489
+    },
+    {
+      "path": "texdb/menu/menu.etc.toc",
+      "size": 176,
+      "crc32": "DC8822B0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.etc.toc",
+      "asset": "texdb__menu__menu.etc.toc",
+      "assetId": 750741406
+    },
+    {
+      "path": "texdb/menu/menu.pvr.dat",
+      "size": 10822324,
+      "crc32": "D27E6D7E",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.pvr.dat",
+      "asset": "texdb__menu__menu.pvr.dat",
+      "assetId": 750741203
+    },
+    {
+      "path": "texdb/menu/menu.pvr.tmb",
+      "size": 860,
+      "crc32": "A7F537B9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.pvr.tmb",
+      "asset": "texdb__menu__menu.pvr.tmb",
+      "assetId": 750741081
+    },
+    {
+      "path": "texdb/menu/menu.pvr.toc",
+      "size": 176,
+      "crc32": "DC8822B0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.pvr.toc",
+      "asset": "texdb__menu__menu.pvr.toc",
+      "assetId": 750740975
+    },
+    {
+      "path": "texdb/menu/menu.txt",
+      "size": 3342,
+      "crc32": "2FB26E10",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.txt",
+      "asset": "texdb__menu__menu.txt",
+      "assetId": 750740873
+    },
+    {
+      "path": "texdb/menu/menu.unc.tmb",
+      "size": 860,
+      "crc32": "A7F537B9",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__menu__menu.unc.tmb",
+      "asset": "texdb__menu__menu.unc.tmb",
+      "assetId": 750740789
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.dat",
+      "size": 7267946,
+      "crc32": "448C589C",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.dxt.dat",
+      "asset": "texdb__mobile__mobile.dxt.dat",
+      "assetId": 750740634
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.tmb",
+      "size": 3940,
+      "crc32": "C414EFF5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.dxt.tmb",
+      "asset": "texdb__mobile__mobile.dxt.tmb",
+      "assetId": 750740534
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.toc",
+      "size": 792,
+      "crc32": "F8D257B2",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.dxt.toc",
+      "asset": "texdb__mobile__mobile.dxt.toc",
+      "assetId": 750740306
+    },
+    {
+      "path": "texdb/mobile/mobile.etc.dat",
+      "size": 8712314,
+      "crc32": "5E762B5A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.etc.dat",
+      "asset": "texdb__mobile__mobile.etc.dat",
+      "assetId": 750740223
+    },
+    {
+      "path": "texdb/mobile/mobile.etc.tmb",
+      "size": 3940,
+      "crc32": "C414EFF5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.etc.tmb",
+      "asset": "texdb__mobile__mobile.etc.tmb",
+      "assetId": 750740132
+    },
+    {
+      "path": "texdb/mobile/mobile.etc.toc",
+      "size": 792,
+      "crc32": "5A86253A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.etc.toc",
+      "asset": "texdb__mobile__mobile.etc.toc",
+      "assetId": 750740069
+    },
+    {
+      "path": "texdb/mobile/mobile.pvr.dat",
+      "size": 8712314,
+      "crc32": "C6C90DA0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.pvr.dat",
+      "asset": "texdb__mobile__mobile.pvr.dat",
+      "assetId": 750739947
+    },
+    {
+      "path": "texdb/mobile/mobile.pvr.tmb",
+      "size": 3940,
+      "crc32": "C414EFF5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.pvr.tmb",
+      "asset": "texdb__mobile__mobile.pvr.tmb",
+      "assetId": 750739863
+    },
+    {
+      "path": "texdb/mobile/mobile.pvr.toc",
+      "size": 792,
+      "crc32": "5A86253A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.pvr.toc",
+      "asset": "texdb__mobile__mobile.pvr.toc",
+      "assetId": 750739773
+    },
+    {
+      "path": "texdb/mobile/mobile.txt",
+      "size": 14502,
+      "crc32": "C8674B7D",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.txt",
+      "asset": "texdb__mobile__mobile.txt",
+      "assetId": 750739669
+    },
+    {
+      "path": "texdb/mobile/mobile.unc.tmb",
+      "size": 3940,
+      "crc32": "C414EFF5",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__mobile__mobile.unc.tmb",
+      "asset": "texdb__mobile__mobile.unc.tmb",
+      "assetId": 750739602
+    },
+    {
+      "path": "texdb/player.img",
+      "size": 16412672,
+      "crc32": "DFEAE560",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__player.img",
+      "asset": "texdb__player.img",
+      "assetId": 750739464
+    },
+    {
+      "path": "texdb/player/player.pvr.dat",
+      "size": 6569414,
+      "crc32": "ADAFD5E3",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__player__player.pvr.dat",
+      "asset": "texdb__player__player.pvr.dat",
+      "assetId": 750739363
+    },
+    {
+      "path": "texdb/player/player.pvr.tmb",
+      "size": 6940,
+      "crc32": "7058A1D4",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__player__player.pvr.tmb",
+      "asset": "texdb__player__player.pvr.tmb",
+      "assetId": 750739280
+    },
+    {
+      "path": "texdb/player/player.pvr.toc",
+      "size": 1580,
+      "crc32": "D7B22E4A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__player__player.pvr.toc",
+      "asset": "texdb__player__player.pvr.toc",
+      "assetId": 750739208
+    },
+    {
+      "path": "texdb/player/player.txt",
+      "size": 27810,
+      "crc32": "682573D4",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__player__player.txt",
+      "asset": "texdb__player__player.txt",
+      "assetId": 750739091
+    },
+    {
+      "path": "texdb/playerhi/playerhi.pvr.dat",
+      "size": 27658902,
+      "crc32": "A5A9ACAA",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__playerhi__playerhi.pvr.dat",
+      "asset": "texdb__playerhi__playerhi.pvr.dat",
+      "assetId": 750738905
+    },
+    {
+      "path": "texdb/playerhi/playerhi.pvr.tmb",
+      "size": 6940,
+      "crc32": "C6737036",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__playerhi__playerhi.pvr.tmb",
+      "asset": "texdb__playerhi__playerhi.pvr.tmb",
+      "assetId": 750738828
+    },
+    {
+      "path": "texdb/playerhi/playerhi.pvr.toc",
+      "size": 1580,
+      "crc32": "F1DBE775",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__playerhi__playerhi.pvr.toc",
+      "asset": "texdb__playerhi__playerhi.pvr.toc",
+      "assetId": 750738778
+    },
+    {
+      "path": "texdb/playerhi/playerhi.txt",
+      "size": 28087,
+      "crc32": "47C45845",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__playerhi__playerhi.txt",
+      "asset": "texdb__playerhi__playerhi.txt",
+      "assetId": 750738686
+    },
+    {
+      "path": "texdb/samp.img",
+      "size": 36947968,
+      "crc32": "7571FCE6",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp.img",
+      "asset": "texdb__samp.img",
+      "assetId": 750738472
+    },
+    {
+      "path": "texdb/samp/samp.dxt.dat",
+      "size": 90990432,
+      "crc32": "3586FF9F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.dxt.dat",
+      "asset": "texdb__samp__samp.dxt.dat",
+      "assetId": 750738094
+    },
+    {
+      "path": "texdb/samp/samp.dxt.tmb",
+      "size": 24160,
+      "crc32": "2297CE35",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.dxt.tmb",
+      "asset": "texdb__samp__samp.dxt.tmb",
+      "assetId": 750737899
+    },
+    {
+      "path": "texdb/samp/samp.dxt.toc",
+      "size": 6200,
+      "crc32": "A4484F56",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.dxt.toc",
+      "asset": "texdb__samp__samp.dxt.toc",
+      "assetId": 750737821
+    },
+    {
+      "path": "texdb/samp/samp.etc.dat",
+      "size": 90990432,
+      "crc32": "3586FF9F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.etc.dat",
+      "asset": "texdb__samp__samp.etc.dat",
+      "assetId": 750737537
+    },
+    {
+      "path": "texdb/samp/samp.etc.tmb",
+      "size": 24160,
+      "crc32": "2297CE35",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.etc.tmb",
+      "asset": "texdb__samp__samp.etc.tmb",
+      "assetId": 750737424
+    },
+    {
+      "path": "texdb/samp/samp.etc.toc",
+      "size": 6200,
+      "crc32": "A4484F56",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.etc.toc",
+      "asset": "texdb__samp__samp.etc.toc",
+      "assetId": 750737387
+    },
+    {
+      "path": "texdb/samp/samp.pvr.dat",
+      "size": 90990432,
+      "crc32": "3586FF9F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.pvr.dat",
+      "asset": "texdb__samp__samp.pvr.dat",
+      "assetId": 750736909
+    },
+    {
+      "path": "texdb/samp/samp.pvr.tmb",
+      "size": 24160,
+      "crc32": "2297CE35",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.pvr.tmb",
+      "asset": "texdb__samp__samp.pvr.tmb",
+      "assetId": 750736775
+    },
+    {
+      "path": "texdb/samp/samp.pvr.toc",
+      "size": 6200,
+      "crc32": "A4484F56",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.pvr.toc",
+      "asset": "texdb__samp__samp.pvr.toc",
+      "assetId": 750736719
+    },
+    {
+      "path": "texdb/samp/samp.txt",
+      "size": 89997,
+      "crc32": "FA79F0A7",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__samp__samp.txt",
+      "asset": "texdb__samp__samp.txt",
+      "assetId": 750736643
+    },
+    {
+      "path": "texdb/txd/txd.360.dat",
+      "size": 7625578,
+      "crc32": "0A33E114",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.360.dat",
+      "asset": "texdb__txd__txd.360.dat",
+      "assetId": 750736429
+    },
+    {
+      "path": "texdb/txd/txd.360.tmb",
+      "size": 31028,
+      "crc32": "C3C08A70",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.360.tmb",
+      "asset": "texdb__txd__txd.360.tmb",
+      "assetId": 750736370
+    },
+    {
+      "path": "texdb/txd/txd.360.toc",
+      "size": 2376,
+      "crc32": "1C14153B",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.360.toc",
+      "asset": "texdb__txd__txd.360.toc",
+      "assetId": 750736305
+    },
+    {
+      "path": "texdb/txd/txd.dxt.dat",
+      "size": 7625578,
+      "crc32": "48D1C13F",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.dxt.dat",
+      "asset": "texdb__txd__txd.dxt.dat",
+      "assetId": 750736229
+    },
+    {
+      "path": "texdb/txd/txd.dxt.tmb",
+      "size": 31028,
+      "crc32": "D0834399",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.dxt.tmb",
+      "asset": "texdb__txd__txd.dxt.tmb",
+      "assetId": 750736155
+    },
+    {
+      "path": "texdb/txd/txd.dxt.toc",
+      "size": 2376,
+      "crc32": "B80061C0",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.dxt.toc",
+      "asset": "texdb__txd__txd.dxt.toc",
+      "assetId": 750736096
+    },
+    {
+      "path": "texdb/txd/txd.etc.dat",
+      "size": 9422056,
+      "crc32": "799B3F05",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.etc.dat",
+      "asset": "texdb__txd__txd.etc.dat",
+      "assetId": 750735920
+    },
+    {
+      "path": "texdb/txd/txd.etc.tmb",
+      "size": 49460,
+      "crc32": "B058DF3A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.etc.tmb",
+      "asset": "texdb__txd__txd.etc.tmb",
+      "assetId": 750735850
+    },
+    {
+      "path": "texdb/txd/txd.etc.toc",
+      "size": 2376,
+      "crc32": "5BCF028A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.etc.toc",
+      "asset": "texdb__txd__txd.etc.toc",
+      "assetId": 750735783
+    },
+    {
+      "path": "texdb/txd/txd.pvr.dat",
+      "size": 7716880,
+      "crc32": "3117E59A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.pvr.dat",
+      "asset": "texdb__txd__txd.pvr.dat",
+      "assetId": 750735659
+    },
+    {
+      "path": "texdb/txd/txd.pvr.tmb",
+      "size": 25204,
+      "crc32": "AF2FEE51",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.pvr.tmb",
+      "asset": "texdb__txd__txd.pvr.tmb",
+      "assetId": 750735580
+    },
+    {
+      "path": "texdb/txd/txd.pvr.toc",
+      "size": 2376,
+      "crc32": "0DD7CF4A",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.pvr.toc",
+      "asset": "texdb__txd__txd.pvr.toc",
+      "assetId": 750735522
+    },
+    {
+      "path": "texdb/txd/txd.txt",
+      "size": 43193,
+      "crc32": "9A5C7D29",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.txt",
+      "asset": "texdb__txd__txd.txt",
+      "assetId": 750735436
+    },
+    {
+      "path": "texdb/txd/txd.unc.tmb",
+      "size": 59636,
+      "crc32": "DBA01873",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/texdb__txd__txd.unc.tmb",
+      "asset": "texdb__txd__txd.unc.tmb",
+      "assetId": 750735343
+    }
+  ]
+}

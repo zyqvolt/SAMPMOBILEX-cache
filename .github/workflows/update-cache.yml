@@ -1,0 +1,47 @@
+name: Update game cache
+
+on:
+  push:
+    branches: [main]
+    paths: ["incoming/**"]
+  workflow_dispatch:
+    inputs:
+      rescan:
+        description: "Pick up files uploaded by hand to the cache-v1 release"
+        type: boolean
+        default: false
+      delete:
+        description: "Game paths to delete, comma separated (e.g. SAMP/gta.dat)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cache
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync release and manifest
+        id: sync
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RESCAN: ${{ inputs.rescan }}
+          DELETE: ${{ inputs.delete }}
+        run: python3 .github/scripts/update_cache.py
+
+      - name: Commit manifest and clear incoming/
+        run: |
+          git config user.name "zyqvolt"
+          git config user.email "bejtuao@gmail.com"
+          if [ -d incoming ]; then git rm -r -q --cached incoming && rm -rf incoming; fi
+          git add manifest.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "chore: update game cache (${{ steps.sync.outputs.summary }})"
+          git push
