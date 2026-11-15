@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T11:14:44.282754+00:00",
+  "generatedAt": "2026-11-15T11:19:11.021436+00:00",
   "baseUrl": "https://raw.githubusercontent.com/zyqvolt/SAMPMOBILEX-cache/main/",
-  "fileCount": 464,
-  "totalBytes": 2706888739,
+  "fileCount": 465,
+  "totalBytes": 2706888755,
   "files": [
     {
       "path": "Adjustable.cfg",
@@ -2540,6 +2540,14 @@
       "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/models__effects.fxp",
       "asset": "models__effects.fxp",
       "assetId": 750732126
+    },
+    {
+      "path": "new 44.txt",
+      "size": 16,
+      "crc32": "4817E870",
+      "url": "https://github.com/zyqvolt/SAMPMOBILEX-cache/releases/download/cache-v1/new_44.txt",
+      "asset": "new_44.txt",
+      "assetId": 750752963
     },
     {
       "path": "smx/txd/INTRO3.TXD",
