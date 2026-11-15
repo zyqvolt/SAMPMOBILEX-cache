@@ -7,9 +7,9 @@
     "message": "We are performing maintenance. Please check Discord for announcements and try again later."
   },
   "update": {
-    "latest_version_code": 1044,
-    "minimum_version_code": 1044,
-    "latest_version_name": "1.0.4.4",
+    "latest_version_code": 1005,
+    "minimum_version_code": 1005,
+    "latest_version_name": "1.0.0.5",
     "force_update": true,
     "download_url": "https://www.mediafire.com/file/9mscv97nmeivjc3/SAMP-MOBILE-X-release.apk/file",
     "message": "SAMP Mobile X 1.0.4.4 is available. Please update to get crash fixes thanks"
