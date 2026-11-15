@@ -40,7 +40,8 @@ jobs:
         run: |
           git config user.name "zyqvolt"
           git config user.email "bejtuao@gmail.com"
-          if [ -d incoming ]; then git rm -r -q --cached incoming && rm -rf incoming; fi
+          # keep incoming/ itself (its .gitkeep) so it stays visible on the website
+          find incoming -type f ! -name .gitkeep -print0 2>/dev/null | xargs -0 -r git rm -q --
           git add manifest.json
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "chore: update game cache (${{ steps.sync.outputs.summary }})"

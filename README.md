@@ -4,7 +4,7 @@ Game data files for SAMP Mobile X. The launcher reads `manifest.json` and `clien
 
 ## Changing game files
 
-**Small files (under 25 MB)** — Add file → Upload files, and put them under `incoming/` with their game path, e.g. `incoming/SAMP/gta.dat`. Commit. The *Update game cache* action uploads them to the release, updates `manifest.json` and clears `incoming/`.
+**Small files (under 25 MB)** — open the `incoming` folder, Add file → Upload files, and put them under `incoming/` with their game path, e.g. `incoming/SAMP/gta.dat`. Commit. The *Update game cache* action uploads them to the release, updates `manifest.json` and clears `incoming/`.
 
 **Big files** — Releases → cache-v1 → Edit, upload the file named with `__` instead of `/` (e.g. `texdb/gta3.img` → `texdb__gta3.img`), save, then Actions → *Update game cache* → Run workflow with **rescan** ticked.
 
