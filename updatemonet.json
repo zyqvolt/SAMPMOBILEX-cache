@@ -1,0 +1,52 @@
+{
+  "updates": [
+    {
+      "title": "RC cars, better sync and smoother CEF",
+      "description": "• RC cars now work like on PC: you can get out, you return to where you started, and other players see you standing there while you drive.\n• Many sync fixes so other players look the same as on PC: damage, bullets, empty cars, towing, passengers, horn and sirens.\n• Satchel charges no longer crash the game.\n• New \"PC draw distance\" option, and the world looks sharp right after you spawn.\n• Servers with CEF screens run smoother. New options: \"Smooth CEF\" and \"Keep buttons visible\".\n• Damaged train files no longer crash the game while loading.\n• New launcher settings design with clear groups and new switches.",
+      "version": "v1.5.2",
+      "date": "November 19, 2026"
+    },
+    {
+      "title": "Stability and sharper graphics",
+      "description": "• Fixed many crashes while loading and while playing, especially with damaged game files or custom models.\n• The launcher checks your game files and can repair them for you.\n• Textures far away look sharper and smoother.\n• Steering keeps working when you hold another button with a second finger.\n• Works on more phones and graphics chips.\n• Better protection for the game code.",
+      "version": "v1.5.1",
+      "date": "November 18, 2026"
+    },
+    {
+      "title": "PC experience update",
+      "description": "• Sync rebuilt to work like PC SA-MP 0.3.7: cars, damage, explosions, planes, trailers and empty cars now behave the same for everyone.\n• PC-style options: PC HUD, PC camera, PC brightness, widescreen view, PC gun strafe and extra lights.\n• Custom vehicle models with downloads, tuning, lights and engine sounds.\n• SA-MP map buildings, like the LS office tower and BeachSide, load like on PC.\n• Chat in many languages, including Russian, Arabic, Thai, Turkish and Vietnamese, with a built-in keyboard language switch.\n• Mod Manager: turn skins, weapon icons, animations, sounds and buttons on or off.\n• TAB scoreboard button, and CEF screens that fit every phone.\n• Support for Android 16 and new phones, in both 32-bit and 64-bit.",
+      "version": "v1.5",
+      "date": "November 15, 2026"
+    },
+    {
+      "title": "Rebuilt game engine",
+      "description": "The game was rebuilt from the ground up: GTA San Andreas now runs from its own source code inside SAMP Mobile X, the original SA-MP client files are back, and the launcher you know stays the same.",
+      "version": "v1.0.4",
+      "date": "November 11, 2026"
+    },
+    {
+      "title": "Custom model support",
+      "description": "Added support for SA-MP 0.3.DL custom skins and custom models.",
+      "version": "v1.0.3",
+      "date": "September 4, 2026"
+    },
+    {
+      "title": "UV Animation",
+      "description": "UV animation can now be enabled or disabled from launcher settings.",
+      "version": "v1.0.2",
+      "date": "September 3, 2026"
+    },
+    {
+      "title": "Minify Mode",
+      "description": "Added an option to use packaged custom data instead of downloading server files.",
+      "version": "v1.0.1",
+      "date": "September 2, 2026"
+    },
+    {
+      "title": "Launcher redesign",
+      "description": "Redesigned the launcher with a new look and layout.",
+      "version": "v1.0.0",
+      "date": "September 1, 2026"
+    }
+  ]
+}
