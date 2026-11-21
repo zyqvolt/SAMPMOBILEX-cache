@@ -7,10 +7,10 @@
     "message": "We are performing maintenance. Please check Discord for announcements and try again later."
   },
   "update": {
-    "latest_version_code": 1,
-    "minimum_version_code": 1,
+    "latest_version_code": 1550,
+    "minimum_version_code": 1530,
     "latest_version_name": "1.5.5",
-    "force_update": false,
+    "force_update": true,
     "download_url": "https://raw.githubusercontent.com/zyqvolt/SAMPMOBILEX-cache/b2807adadba2087f0df6c00cb5fed2188560e401/app_release.apk",
     "message": "SAMP Mobile X 1.5.5 keeps players seated when server controls return."
   }
