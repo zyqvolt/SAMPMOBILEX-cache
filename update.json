@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "app_enabled": true,
+  "maintenance": {
+    "enabled": false,
+    "title": "SAMP Mobile X Maintenance",
+    "message": "We are performing maintenance. Please check Discord for announcements and try again later."
+  },
+  "update": {
+    "latest_version_code": 1540,
+    "minimum_version_code": 1530,
+    "latest_version_name": "1.5.4",
+    "force_update": true,
+    "download_url": "https://raw.githubusercontent.com/zyqvolt/SAMPMOBILEX-cache/a85fff98e09391189d8e0e5921ce24ec004df815/app_release.apk",
+    "message": "SAMP Mobile X 1.5.4 fixes the lethal health update."
+  }
+}
